@@ -87,6 +87,7 @@ body {
 
 a {
     text-decoration: none !important;
+    outline: none !important;
 
     &:link,
     &:visited,
@@ -269,6 +270,69 @@ a {
     }
 }
 
+.n-share-dropdown {
+    display: inline-block;
+
+    &.n-header-share-dropdown {
+        display: inline-block;
+        position: absolute;
+        right: 100px;
+        top: 20px;
+    }
+
+    &>a {
+        color: #888;
+        font-family: "Roboto";
+        font-size: 13px;
+        letter-spacing: .5px;
+
+        .fa-share {
+            border-left: 1px solid #ccc;
+            padding-left: 7px;
+            margin-left: 4px;
+        }
+    }
+
+    .dropdown-menu {
+        margin-top: 8px;
+        box-shadow: none;
+        border: 1px solid #e6e6e6;
+        padding: 0;
+        min-width: 148px !important;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+
+    .jssocials {
+        border: 6px solid #f0f0f0;
+    }
+
+    .jssocials-shares {
+        margin: 2px 1px;
+    }
+
+    .jssocials-share {
+        margin: 0;
+        padding: 0 1px;
+    }
+
+    .jssocials-share-logo {
+        font-size: 42px !important;
+    }
+
+    .fa-twitter:before {
+        content: "\f081" !important;
+    }
+
+    .fa-facebook:before {
+        content: "\f082" !important;
+    }
+
+    .fa-google:before {
+        content: "\f0d4" !important;
+    }
+}
+
 .menu-main-menu-container {
     .icon-angle-down {
         display: none !important;
@@ -384,6 +448,74 @@ a {
         }
     }
 }
+
+@media (max-width: $screen-md-max) {
+    .navigation-top {
+        position: absolute;
+        top: 30px;
+        left: 0;
+        z-index: 9;
+        background: $brand-primary;
+        right: 0;
+        padding: 20px !important;
+        float: none;
+    }
+
+    .menu-main-menu-container { 
+        ul.menu > li {
+            display: block;
+            margin-bottom: 12px;
+
+            > a {
+                display: block;
+                color: #fff !important;
+                font-weight: 600;
+
+                &:after {
+                    display: none !important;
+                }
+            }
+
+            &.current-menu-item {
+                & > a {
+                    border: 2px solid #fff;
+                    padding: 5px 20px;
+                    margin-bottom: 12px;
+                }
+            }
+        }
+        ul.sub-menu {
+            position: static !important;
+            padding: 0 0 0 40px !important;
+            width: auto;
+            display: block !important;
+
+            & > li {
+                display: block !important;
+
+                & > a {
+                    display: block !important;
+                    color: #fff !important;
+                }
+
+                &.current-menu-item {
+                    margin-bottom: 10px;
+
+                    & > a {
+                        border: 2px solid #fff;
+                        display: block;
+                        padding: 4px 15px;
+                    }
+                }
+            }
+
+            &:after {
+                display: none;
+            }
+        }
+    }
+}
+
 
 .site-content {
     //padding: 0 30px;

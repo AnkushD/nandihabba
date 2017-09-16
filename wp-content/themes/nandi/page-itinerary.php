@@ -163,6 +163,19 @@ get_header(); ?>
                     <div class="n-itinerary-quote">
                         Nandi Habba 2017 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage. This project is spearheaded by United Way of Bengaluru
                     </div>
+
+                    <div class="text-right">
+                        <div class="dropdown n-share-dropdown">
+                            <a id="dLabel" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                                Share
+                                <span class="fa fa-share"></span>
+                            </a>
+
+                            <ul class="dropdown-menu pull-right" aria-labelledby="dLabel">
+                                <div id="itinerary-share"></div>
+                            </ul>
+                        </div>
+                    </div>
                 </section>
 
                 <section class="n-itinerary-section n-itinerary-events-section">

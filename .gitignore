@@ -1,3 +1,14 @@
+*~
+.DS_Store
+svn
+.cvs
+*.bak
+*.swp
+*.swo
+Thumbs.db
+.sass-cache
+
+
 *.log
 wp-config.php
 wp-content/advanced-cache.php

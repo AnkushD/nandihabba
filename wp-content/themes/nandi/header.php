@@ -31,7 +31,8 @@
 	<header id="masthead" class="site-header n-site-header clearfix" role="banner">
 
 		<?php //get_template_part( 'template-parts/header/header', 'image' ); ?>
-    
+
+
         <div class="n-left-header">
             <ul class="list-inline">
                 <li class="n-brand-icon">
@@ -49,6 +50,17 @@
             </ul>
         </div>
 
+        <div class="dropdown n-share-dropdown n-header-share-dropdown">
+            <a id="dLabel" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                Recommend Nandi Habba
+                <span class="fa fa-share"></span>
+            </a>
+
+            <ul class="dropdown-menu pull-right" aria-labelledby="dLabel">
+                <div id="header-share"></div>
+            </ul>
+        </div>
+    
 		<?php if ( has_nav_menu( 'top' ) ) : ?>
 			<div class="navigation-top">
 				<div class="wrap">
