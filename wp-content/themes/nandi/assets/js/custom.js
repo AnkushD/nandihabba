@@ -98,4 +98,18 @@ $(document).ready(function(){
         });
     });
 
+
+    $('#js-event-scroll a').click(function() {
+
+        //$('#js-event-scroll a').removeClass('n-active');
+
+        //$(this).addClass('n-active');
+
+        var section = $(this).attr("href");
+
+        $('html, body').animate({
+            scrollTop: $(section).offset().top - 100
+        });
+    });
+
 });
