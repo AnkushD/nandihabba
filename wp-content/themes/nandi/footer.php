@@ -16,6 +16,11 @@
 
 		</div><!-- #content -->
 
+        <div class="n-goto-top" id="e-goto-top">
+            <i class="fa fa-caret-up"></i>
+            <p class="n-text">TOP</p>
+        </div>
+
 		<footer id="colophon" class="site-footer n-site-footer" role="contentinfo">
 			<div class="wrap">
                 <div class="n-copy-rights">

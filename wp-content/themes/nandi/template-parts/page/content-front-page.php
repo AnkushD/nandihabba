@@ -38,7 +38,15 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    VALLEY OF THE WIND </br> NANDI HILLS
+                                    <div class="n-default">
+                                        VALLEY OF THE WIND </br> NANDI HILLS
+                                    </div>
+                                    <div class="n-hover n-direct-item">
+                                        <a href="">
+                                            <i class="fa fa-map-marker fa-2x"></i>
+                                            <span>DIRECT ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -46,7 +54,15 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    28-29 OCTOBER <br /> 2017
+                                    <div class="n-default">
+                                        28-29 OCTOBER <br /> 2017
+                                    </div>
+                                    <div class="n-hover n-reminder-item">
+                                        <a href="">
+                                            <i class="fa fa-calendar fa-2x"></i>
+                                            <span>REMIND ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -78,14 +94,19 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-direct-item">
+                        <div class="n-overlay-item n-place-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a href="">
-                                        <i class="fa fa-map-marker fa-2x"></i>
-                                        <span>DIRECT ME</span>
-                                    </a>
+                                    <div class="n-default">
+                                        VALLEY OF THE WIND </br> NANDI HILLS
+                                    </div>
+                                    <div class="n-hover n-direct-item">
+                                        <a href="">
+                                            <i class="fa fa-map-marker fa-2x"></i>
+                                            <span>DIRECT ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -93,7 +114,15 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    28-29 OCTOBER <br /> 2017
+                                    <div class="n-default">
+                                        28-29 OCTOBER <br /> 2017
+                                    </div>
+                                    <div class="n-hover n-reminder-item">
+                                        <a href="">
+                                            <i class="fa fa-calendar fa-2x"></i>
+                                            <span>REMIND ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -129,18 +158,31 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    VALLEY OF THE WIND </br> NANDI HILLS
+                                    <div class="n-default">
+                                        VALLEY OF THE WIND </br> NANDI HILLS
+                                    </div>
+                                    <div class="n-hover n-direct-item">
+                                        <a href="">
+                                            <i class="fa fa-map-marker fa-2x"></i>
+                                            <span>DIRECT ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-reminder-item">
+                        <div class="n-overlay-item n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a href="">
-                                        <i class="fa fa-calendar fa-2x"></i>
-                                        <span>REMIND ME</span>
-                                    </a>
+                                    <div class="n-default">
+                                        28-29 OCTOBER <br /> 2017
+                                    </div>
+                                    <div class="n-hover n-reminder-item">
+                                        <a href="">
+                                            <i class="fa fa-calendar fa-2x"></i>
+                                            <span>REMIND ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -176,18 +218,31 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    VALLEY OF THE WIND </br> NANDI HILLS
+                                    <div class="n-default">
+                                        VALLEY OF THE WIND </br> NANDI HILLS
+                                    </div>
+                                    <div class="n-hover n-direct-item">
+                                        <a href="">
+                                            <i class="fa fa-map-marker fa-2x"></i>
+                                            <span>DIRECT ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-reminder-item">
+                        <div class="n-overlay-item n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a href="">
-                                        <i class="fa fa-calendar fa-2x"></i>
-                                        <span>REMIND ME</span>
-                                    </a>
+                                    <div class="n-default">
+                                        28-29 OCTOBER <br /> 2017
+                                    </div>
+                                    <div class="n-hover n-reminder-item">
+                                        <a href="">
+                                            <i class="fa fa-calendar fa-2x"></i>
+                                            <span>REMIND ME</span>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -209,7 +264,7 @@
                         <h1 class="n-section-title n-big">
                             NANDI HABBA
                         </h1>
-                        <p class="n-section-text margin-bottom-30">
+                        <p class="n-section-text margin-bottom-30" style="max-width: 800px;">
                             Countless early morning rides to the top of Nandi Hills, and you’ve still been missing out on its best features! Nandi Hills is home to one of the oldest temples in Karnataka and one of the only cloud forests in South India. Hundreds of birds, insects and plants common only in the Himalayas and dense forests can be spotted here. Nandi Habba turns the spotlight on the lesser known, yet fascinating, aspects of Nandi Hills. Come on down for a truly native experience and an opportunity to enjoy local foods, drinks, arts, culture, games and sports.
                         </p>
                         <button class="btn n-brand-btn">READ MORE</button>
@@ -294,7 +349,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
-                            <h3 class="n-event-name">CYCLOTHON</h3>
+                            <h3 class="n-event-name">FUN & GAMES</h3>
                             <div class="n-event-img e-4"> </div>
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
@@ -304,7 +359,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
-                            <h3 class="n-event-name">HALF MARATHON</h3>
+                            <h3 class="n-event-name">QUIZ</h3>
                             <div class="n-event-img e-5"> </div>
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
@@ -314,7 +369,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
-                            <h3 class="n-event-name">WALKS</h3>
+                            <h3 class="n-event-name">YOGA</h3>
                             <div class="n-event-img e-6"> </div>
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
