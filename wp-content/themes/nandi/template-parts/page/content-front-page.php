@@ -26,7 +26,9 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">RIDE AWAY</span>
                                     <p class="n-title">CYCLOTHON</p>
-                                    <a href="" class="btn n-rt-angled-btn">PARTICIPATE</a>
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">
+                                        PARTICIPATE
+                                    </a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -70,7 +72,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn" href="">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +88,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">RUN UPHILL</span>
                                     <p class="n-title">MARATHON</p>
-                                    <a href="" class="btn n-rt-angled-btn">PARTICIPATE</a>
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -130,7 +132,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn" href="">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -146,7 +148,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">HERITAGE+NATURE</span>
                                     <p class="n-title">WALKS</p>
-                                    <a href="" class="btn n-rt-angled-btn">PARTICIPATE</a>
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -190,7 +192,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn" href="">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -206,7 +208,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">PLAY TIME</span>
                                     <p class="n-title">FUN & GAMES</p>
-                                    <a href="" class="btn n-rt-angled-btn">PARTICIPATE</a>
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -250,7 +252,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn" href="">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -317,7 +319,7 @@
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -327,7 +329,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -337,7 +339,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                 </div>
@@ -354,7 +356,7 @@
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -364,7 +366,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -374,7 +376,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                 </div>
@@ -389,7 +391,7 @@
                             <p class="n-event-info">
                                 Raghu Dixit, Lagori, Indian Music Experience and more. At Nandi Hills. You must be there for the experience.
                             </p>
-                            <button class="btn n-brand-btn">PARTICIPATE</button>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                 </div>

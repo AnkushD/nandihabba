@@ -45,7 +45,7 @@
                      <span>2017</span>
                 </li>
                 <li class="n-action">
-                    <a class="btn n-angled-btn" href="">COUNT ME IN!</a>
+                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
                 </li>
             </ul>
         </div>

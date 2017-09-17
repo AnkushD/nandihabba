@@ -1,6 +1,9 @@
 $ = jQuery;
 
 $(document).ready(function(){
+
+    var goToTopTimer = false;
+
     $('#js-home-masthead-carousel').slick({
         dots: true,
         //autoplay: true,
@@ -63,4 +66,36 @@ $(document).ready(function(){
     $('#e-goto-top').click(function() {
         $('body').velocity("scroll", { duration: 600, easing: 'easeOutQuad' });
     });
+
+    $('.js-ticket-tooltip').tooltip({
+        container: 'body',
+        html: "true", 
+        trigger: "click", 
+        placement: "bottom", 
+        title: "Tickets will be available three weeks before the event on <br /> <span>www.bookmyshow.com</span>",
+        template: '<div class="tooltip n-yellow-tootltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner">sadfds</div></div>'
+    });
+
+    $('.js-ticket-tooltip-hover').tooltip({
+        container: 'body',
+        html: "true", 
+        trigger: "hover focus", 
+        placement: "bottom", 
+        title: "Tickets will be available three weeks before the event on <br /> <span>www.bookmyshow.com</span>",
+        template: '<div class="tooltip n-yellow-tootltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner">sadfds</div></div>'
+    });
+
+    $('body').on('click', function (e) {
+
+        var currentEle =  $(e.target);
+
+        $('.js-ticket-tooltip').each(function() {
+            console.log($(e.target).is($(this)));
+
+            if($(e.target).is($(this))) return;
+
+            $(this).tooltip('hide')
+        });
+    });
+
 });

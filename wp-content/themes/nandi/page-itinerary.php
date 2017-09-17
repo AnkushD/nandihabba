@@ -41,7 +41,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -55,7 +55,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -69,7 +69,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -83,7 +83,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -97,7 +97,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -111,7 +111,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -125,7 +125,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -139,7 +139,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -153,7 +153,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                     </div>
@@ -192,7 +192,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -206,7 +206,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -220,7 +220,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -234,7 +234,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -248,7 +248,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -262,7 +262,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn" href="">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
                     </div>
