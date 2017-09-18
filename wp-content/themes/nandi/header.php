@@ -19,6 +19,7 @@
 <link rel="icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 <link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 
+<meta property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/trivia_02.jpg" />
 
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
