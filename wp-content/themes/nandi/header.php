@@ -30,8 +30,8 @@
 <meta name="twitter:card" content="summary_large_image">
 <!-- <meta name="twitter:site" content="@s"> -->
 <meta name="twitter:creator" content="@nkush">
-<meta name="twitter:title" content="Twitter nandi habba">
-<meta name="twitter:description" content="Twitter description">
+<meta name="twitter:title" content="Nandi Habba 2017">
+<meta name="twitter:description" content="Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!">
 <meta name="twitter:image" content="http://nandihabba.com/wp-content/themes/nandi/assets/images/SOCIAL.png" />
 
 
