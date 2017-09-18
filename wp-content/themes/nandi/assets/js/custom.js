@@ -9,12 +9,12 @@ $(document).ready(function(){
     var slider = $('#js-home-masthead-carousel').slick({
         dots: true,
         autoplay: true,
-        pauseOnFocus: false,
-        autoplaySpeed: 4000
+        pauseOnFocus: true,
+        autoplaySpeed: 2000
     });
 
-    /*
 
+    /*
     // On before slide change
     slider.on('afterChange', function(event, slick, currentSlide, nextSlide){
         //check the length of total items in .slide container
@@ -25,12 +25,20 @@ $(document).ready(function(){
         if( item_length === slick.slickCurrentSlide() && slick.options.autoplay){
             //slick.slickSetOption("autoplay", false, false);
 
-            $('#js-home-masthead-carousel').slick('autoplay', false, false);
-            slider.slickGoTo(2);
+            //$('#js-home-masthead-carousel').slick('autoplay', false, false);
+            //slider.slick('slickGoTo', 1)
+            //slider.slickGoTo(2);
+            slideToFirst();
         };
     });
-    
+
+    function slideToFirst() {
+        console.log('called');
+        slider.slickSetOption("autoplay", false, false);
+        slider.slick('slickGoTo', 2)
+    }
     */
+    
 
     $('#js-home-trivia-carousel').slick({
         pauseOnFocus: false,
