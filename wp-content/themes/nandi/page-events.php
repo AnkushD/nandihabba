@@ -53,7 +53,7 @@ get_header(); ?>
                             </div>
                         </div>
                         <div class="n-small-text n-col-content">
-                            <p class="n-block-title">Tour de Bengaluru</p>
+                            <p class="n-block-title">Nandi Amateur Cyclothon</p>
 
                             <div class="n-col-inner n-small-text">
                                 <p>
@@ -135,13 +135,6 @@ get_header(); ?>
                     <p class="n-event-info">
                         Discover the breath-taking nature trails, listen closely to birds and insects, and refresh your spirit. You will connect with the Nandi Hills on a personal level when you learn more about the creatures that have made these hills their home. Designed to interest you in the environment and ecology of Nandi Hills, Nandi Nature Walks explores four different species of the region. Register for the walks now!
                     </p>
-
-                    <div class="n-small-text n-block">
-                        <p class="n-block-title">Competition Format</p>
-                        <p>
-                            The Road Race is a mass-start event, and the first rider in each event to cross the finish line will be declared the winner.
-                        </p>
-                    </div>
 
                     <div class="n-small-text n-block">
                         <p class="n-block-title">Schedule</p>
@@ -550,7 +543,7 @@ get_header(); ?>
                     <div class="n-small-text n-block">
                         <p class="n-block-title">Facilitators</p>
                         <p>
-                            Yoga at Nandi is facilitated by Akshar Power Yoga Institute..
+                            Yoga at Nandi is facilitated by Akshar Power Yoga Institute.
                         </p>
                     </div>
 

@@ -9,36 +9,24 @@ $(document).ready(function(){
     var slider = $('#js-home-masthead-carousel').slick({
         dots: true,
         autoplay: true,
-        pauseOnFocus: true,
-        autoplaySpeed: 2000
+        pauseOnFocus: false,
+        autoplaySpeed: 4000,
+        infinite: false
     });
 
 
-    /*
     // On before slide change
     slider.on('afterChange', function(event, slick, currentSlide, nextSlide){
-        //check the length of total items in .slide container
-        //if that number is the same with the number of the last slider
-        //Then pause the slider
         console.log(item_length, slick.slickCurrentSlide());
 
         if( item_length === slick.slickCurrentSlide() && slick.options.autoplay){
-            //slick.slickSetOption("autoplay", false, false);
-
-            //$('#js-home-masthead-carousel').slick('autoplay', false, false);
-            //slider.slick('slickGoTo', 1)
-            //slider.slickGoTo(2);
-            slideToFirst();
+            $('#js-home-masthead-carousel').slick('slickSetOption', 'autoplay', false, true);
+            setTimeout(function() {
+                $('#js-home-masthead-carousel').slick('slickGoTo', '0');
+            }, 4000)
         };
     });
 
-    function slideToFirst() {
-        console.log('called');
-        slider.slickSetOption("autoplay", false, false);
-        slider.slick('slickGoTo', 2)
-    }
-    */
-    
 
     $('#js-home-trivia-carousel').slick({
         pauseOnFocus: false,

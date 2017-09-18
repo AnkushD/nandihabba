@@ -301,7 +301,7 @@
                             AN ADVENTURE AWAITS...
                         </h1>
                         <p class="n-section-text margin-bottom-30">
-                            This first of its kind event in Bengaluru makes a conscious effort to keep its carbon footprint to a minimum – Nandi Habba is a 100% plastic and litter-free celebration of Bengaluru’s favourite getaway. For a truly native experience and an opportunity to enjoy local foods, drinks, arts, culture, games and sports, come on down to the Nandi Habba.  A magnificent destination is waiting to be rediscovered!
+                            This first of its kind event in Bengaluru makes a conscious effort to keep its carbon footprint to a minimum – Nandi Habba is a 100% plastic and litter-free celebration of Bengaluru’s favourite getaway.
                         </p>
                         <a class="btn n-border-btn">EVENTS INFO</a>
                         &nbsp;
