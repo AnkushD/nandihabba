@@ -67,7 +67,7 @@ $(document).ready(function(){
         showLabel: false,
         showCount: false,
         shareIn: "popup",
-        url: "http://www.nandihabba.com/events",
+        url: "http://www.nandihabba.com/nandi-restoration/",
         text: $('.n-quote').text().trim(),
         shares: [
             {
