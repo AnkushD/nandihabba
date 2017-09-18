@@ -20,6 +20,10 @@
 <link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 
 <meta property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/trivia_02.jpg" />
+<meta property="og:url"           content="http://nandihabba.com/" />
+<meta property="og:type"          content="website" />
+<meta property="og:title"         content="Nandi Habba title" />
+<meta property="og:description"   content="Description" />
 
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
