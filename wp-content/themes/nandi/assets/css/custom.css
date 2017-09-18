@@ -13196,11 +13196,12 @@ a:link, a:visited, a:hover, a:active {
 }
 
 /* line 1091, ../sass/custom.scss */
+.n-inside-pg-section,
 .n-itinerary-section {
   margin-top: 50px;
 }
 
-/* line 1096, ../sass/custom.scss */
+/* line 1097, ../sass/custom.scss */
 .n-itinerary-events-section h3 {
   border-bottom: 2px solid #00cf4c;
   padding: 20px 0 10px;
@@ -13209,7 +13210,7 @@ a:link, a:visited, a:hover, a:active {
   font-size: 3.15789rem;
   color: #666;
 }
-/* line 1108, ../sass/custom.scss */
+/* line 1109, ../sass/custom.scss */
 .n-itinerary-events-section .n-list-item {
   font-family: "Roboto";
   letter-spacing: .5px;
@@ -13217,60 +13218,60 @@ a:link, a:visited, a:hover, a:active {
   padding: 15px 0;
   border-bottom: 1px solid #e6e6e6;
 }
-/* line 1115, ../sass/custom.scss */
+/* line 1116, ../sass/custom.scss */
 .n-itinerary-events-section .n-list-item:hover {
   color: #FE2568;
 }
-/* line 1118, ../sass/custom.scss */
+/* line 1119, ../sass/custom.scss */
 .n-itinerary-events-section .n-list-item:hover .n-action {
   display: inline-block;
 }
-/* line 1124, ../sass/custom.scss */
+/* line 1125, ../sass/custom.scss */
 .n-itinerary-events-section .n-time,
 .n-itinerary-events-section .n-name {
   float: left;
   padding: 3px 0;
 }
-/* line 1130, ../sass/custom.scss */
+/* line 1131, ../sass/custom.scss */
 .n-itinerary-events-section .n-time {
   width: 250px;
 }
-/* line 1134, ../sass/custom.scss */
+/* line 1135, ../sass/custom.scss */
 .n-itinerary-events-section .n-action {
   float: right;
   display: none;
 }
-/* line 1138, ../sass/custom.scss */
+/* line 1139, ../sass/custom.scss */
 .n-itinerary-events-section .n-action .btn {
   padding: 5px 12px;
   font-size: 13px;
 }
-/* line 1145, ../sass/custom.scss */
+/* line 1146, ../sass/custom.scss */
 .n-itinerary-events-section .n-list-item .clearfix {
   display: none;
 }
 @media (max-width: 1199px) {
-  /* line 1153, ../sass/custom.scss */
+  /* line 1154, ../sass/custom.scss */
   .n-itinerary-events-section .n-time:hover,
   .n-itinerary-events-section .n-name:hover {
     color: #333 !important;
   }
-  /* line 1158, ../sass/custom.scss */
+  /* line 1159, ../sass/custom.scss */
   .n-itinerary-events-section .n-action {
     display: inline-block !important;
   }
 }
 @media (max-width: 685px) {
-  /* line 1165, ../sass/custom.scss */
+  /* line 1166, ../sass/custom.scss */
   .n-itinerary-events-section .n-list-item .clearfix {
     display: block !important;
   }
-  /* line 1171, ../sass/custom.scss */
+  /* line 1172, ../sass/custom.scss */
   .n-itinerary-events-section .n-time:hover,
   .n-itinerary-events-section .n-name:hover {
     color: #333 !important;
   }
-  /* line 1176, ../sass/custom.scss */
+  /* line 1177, ../sass/custom.scss */
   .n-itinerary-events-section .n-action {
     margin-top: 10px;
     display: inline-block !important;
@@ -13278,17 +13279,17 @@ a:link, a:visited, a:hover, a:active {
   }
 }
 @media (max-width: 549px) {
-  /* line 1184, ../sass/custom.scss */
+  /* line 1185, ../sass/custom.scss */
   .n-itinerary-events-section .n-list-item {
     padding: 30px 0;
   }
-  /* line 1188, ../sass/custom.scss */
+  /* line 1189, ../sass/custom.scss */
   .n-itinerary-events-section .n-time,
   .n-itinerary-events-section .n-name {
     float: none !important;
     padding: 0 !important;
   }
-  /* line 1194, ../sass/custom.scss */
+  /* line 1195, ../sass/custom.scss */
   .n-itinerary-events-section .n-action {
     margin-top: 20px;
     display: inline-block !important;
@@ -13296,7 +13297,7 @@ a:link, a:visited, a:hover, a:active {
   }
 }
 
-/* line 1202, ../sass/custom.scss */
+/* line 1203, ../sass/custom.scss */
 .n-quote {
   padding: 20px 0;
   font-family: "Droid Serif";
@@ -13309,24 +13310,24 @@ a:link, a:visited, a:hover, a:active {
   border-top: 3px solid #f9e255;
 }
 
-/* line 1214, ../sass/custom.scss */
+/* line 1215, ../sass/custom.scss */
 .n-site-footer {
   padding: 30px 5%;
   background: #333;
   margin-top: 100px;
 }
-/* line 1219, ../sass/custom.scss */
+/* line 1220, ../sass/custom.scss */
 .n-site-footer .wrap {
   display: flex;
   justify-content: space-between;
 }
-/* line 1224, ../sass/custom.scss */
+/* line 1225, ../sass/custom.scss */
 .n-site-footer .n-copy-rights {
   color: #fff;
   font-size: 15px;
   font-family: Roboto;
 }
-/* line 1231, ../sass/custom.scss */
+/* line 1232, ../sass/custom.scss */
 .n-site-footer .n-social-ic a {
   display: block;
   background: #00cf4c;
@@ -13337,12 +13338,12 @@ a:link, a:visited, a:hover, a:active {
   border-radius: 100% !important;
   color: #333;
 }
-/* line 1241, ../sass/custom.scss */
+/* line 1242, ../sass/custom.scss */
 .n-site-footer .n-social-ic i {
   font-size: 24px;
 }
 
-/* line 1247, ../sass/custom.scss */
+/* line 1248, ../sass/custom.scss */
 .n-goto-top {
   z-index: 2;
   position: fixed;
@@ -13371,17 +13372,17 @@ a:link, a:visited, a:hover, a:active {
   -o-transition: transform 0.2s;
   transition: transform 0.2s;
 }
-/* line 1275, ../sass/custom.scss */
+/* line 1276, ../sass/custom.scss */
 .n-goto-top .fa-caret-up {
   font-size: 45px !important;
   color: #00cf4c;
 }
-/* line 1280, ../sass/custom.scss */
+/* line 1281, ../sass/custom.scss */
 .n-goto-top .n-text {
   margin: -5px -2px;
   text-align: center;
 }
-/* line 1285, ../sass/custom.scss */
+/* line 1286, ../sass/custom.scss */
 .n-goto-top.e-show {
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
@@ -13390,22 +13391,21 @@ a:link, a:visited, a:hover, a:active {
   transform: scale(1);
 }
 
-/* line 1294, ../sass/custom.scss */
+/* line 1295, ../sass/custom.scss */
 hr.n-thik {
   border-top: 3px solid #e6e6e6;
   margin-bottom: 10px;
 }
 
-/* line 1299, ../sass/custom.scss */
+/* line 1300, ../sass/custom.scss */
 .n-inside-pg-content {
   max-width: 800px;
   margin: auto;
 }
 
-/* line 1305, ../sass/custom.scss */
+/* line 1306, ../sass/custom.scss */
 .n-inside-pg-section {
   font-family: "Roboto";
-  margin-top: 65px;
 }
 /* line 1309, ../sass/custom.scss */
 .n-inside-pg-section h3 {
