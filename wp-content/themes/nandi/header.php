@@ -19,15 +19,27 @@
 <link rel="icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 <link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 
-<meta property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/trivia_02.jpg" />
+
+<meta property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/SOCIAL.jpg" />
 <meta property="og:url"           content="http://nandihabba.com/" />
 <meta property="og:type"          content="website" />
-<meta property="og:title"         content="Nandi Habba title" />
-<meta property="og:description"   content="Description" />
+<meta property="og:title"         content="Nandi Habba 2017" />
+<meta property="og:description"   content="Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!" />
+
+
+<meta name="twitter:card" content="summary_large_image">
+<!-- <meta name="twitter:site" content="@s"> -->
+<meta name="twitter:creator" content="@nkush">
+<meta name="twitter:title" content="Twitter nandi habba">
+<meta name="twitter:description" content="Twitter description">
+<meta name="twitter:image" content="http://nandihabba.com/wp-content/themes/nandi/assets/images/SOCIAL.jpg" />
+
 
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
+
+
 
 <?php wp_head(); ?>
 </head>
