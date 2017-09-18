@@ -20,11 +20,11 @@
 <link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 
 
-<meta property="og:url"           content="http://nandihabba.com/" />
-<meta property="og:type"          content="website" />
-<meta property="og:title"         content="Nandi Habba 2017" />
-<meta property="og:description"   content="Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!" />
-<meta property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/SOCIAL.png" />
+<meta prefix="og: http://ogp.me/ns#" property="og:url"           content="http://nandihabba.com/" />
+<meta prefix="og: http://ogp.me/ns#" property="og:type"          content="website" />
+<meta prefix="og: http://ogp.me/ns#" property="og:title"         content="Nandi Habba 2017" />
+<meta prefix="og: http://ogp.me/ns#" property="og:description"   content="Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!" />
+<meta prefix="og: http://ogp.me/ns#" property="og:image"         content="http://nandihabba.com/wp-content/themes/nandi/assets/images/SOCIAL.png" />
 
 
 <meta name="twitter:card" content="summary_large_image">
