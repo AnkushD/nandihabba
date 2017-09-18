@@ -1295,18 +1295,18 @@ a {
     }
 }
 
-
-.n-events-pg-content {
-    max-width: 800px;
-    margin: auto;
-}
-
 hr.n-thik {
     border-top: 3px solid #e6e6e6;
     margin-bottom: 10px;
 }
 
-.n-events-pg-section {
+.n-inside-pg-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+
+.n-inside-pg-section {
     font-family: "Roboto";
     margin-top: 65px;
 
@@ -1376,7 +1376,7 @@ hr.n-thik {
         li {
             margin-bottom: 7px;
             padding-left: 20px;
-            line-height: 1.2;
+            line-height: 1.25;
             position: relative;
 
             &:before {

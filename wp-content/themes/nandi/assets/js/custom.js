@@ -6,7 +6,7 @@ $(document).ready(function(){
 
     $('#js-home-masthead-carousel').slick({
         dots: true,
-        //autoplay: true,
+        autoplay: true,
         pauseOnFocus: false,
         autoplaySpeed: 4000
     });
@@ -23,7 +23,7 @@ $(document).ready(function(){
         showCount: false,
         shareIn: "popup",
         url: "http://www.nandihabba.com",
-        text: "Text to share",
+        text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!",
         shares: ["twitter", "facebook", "googleplus"],
         on: {
             click: function(e) { hideDropdown(e) }
@@ -79,7 +79,7 @@ $(document).ready(function(){
     $('.js-ticket-tooltip-hover').tooltip({
         container: 'body',
         html: "true", 
-        trigger: "hover focus", 
+        trigger: "hover", 
         placement: "bottom", 
         title: "Tickets will be available three weeks before the event on <br /> <span>www.bookmyshow.com</span>",
         template: '<div class="tooltip n-yellow-tootltip" role="tooltip"><div class="tooltip-arrow"></div><div class="tooltip-inner">sadfds</div></div>'
@@ -91,9 +91,7 @@ $(document).ready(function(){
 
         $('.js-ticket-tooltip').each(function() {
             console.log($(e.target).is($(this)));
-
             if($(e.target).is($(this))) return;
-
             $(this).tooltip('hide')
         });
     });

@@ -14,20 +14,16 @@ get_header(); ?>
                         <h1>Itinerary</h1>
                     </div>
                     <div class="n-flat-bar-rt">
-                        <ul class="list-inline">
-                            <li>
-                                28 OCTOBER
-                            </li>
-                            <li>
-                                29 OCTOBER
-                            </li>
+                        <ul class="list-inline" id="js-event-scroll">
+                            <li><a href="#itinerary28" class="n-active">28 OCTOBER</a></li>
+                            <li><a href="#itinerary29">29 OCTOBER</a></li>
                         </ul>
                     </div>
                 </div>
             </div>
 
             <div class="n-pg-side-padding n-itinerary-pg-content">
-                <section class="n-itinerary-section n-itinerary-events-section">
+                <section class="n-itinerary-section n-itinerary-events-section" id="itinerary28">
                     <h3>28 October, 2017</h3>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">
@@ -178,7 +174,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section class="n-itinerary-section n-itinerary-events-section">
+                <section class="n-itinerary-section n-itinerary-events-section" id="itinerary29">
                     <h3>29 October, 2017</h3>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">

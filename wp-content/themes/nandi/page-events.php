@@ -28,8 +28,8 @@ get_header(); ?>
                 </div>
             </div>
 
-            <div class="n-pg-side-padding n-events-pg-content">
-                <section id="cyclothon" class="n-events-pg-section">
+            <div class="n-pg-side-padding n-inside-pg-content">
+                <section id="cyclothon" class="n-inside-pg-section">
                     <h3>Cyclothon</h3>
                     <p class="n-event-info">
                         Get back on the seat and test your grit on the challenging Nandi cycling trails. Located on the outskirts of Bengaluru City, the road leads you past breath-taking sights, ecological marvels and historic locations. The pleasant Bengaluru weather enhances the riding experience. Designed specifically for two endurance levels, participate in either professional race or the low-intensity race.
@@ -130,7 +130,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="naturewalk" class="n-events-pg-section">
+                <section id="naturewalk" class="n-inside-pg-section">
                     <h3>Nature Walk</h3>
                     <p class="n-event-info">
                         Discover the breath-taking nature trails, listen closely to birds and insects, and refresh your spirit. You will connect with the Nandi Hills on a personal level when you learn more about the creatures that have made these hills their home. Designed to interest you in the environment and ecology of Nandi Hills, Nandi Nature Walks explores four different species of the region. Register for the walks now!
@@ -231,7 +231,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="heritagewalk" class="n-events-pg-section">
+                <section id="heritagewalk" class="n-inside-pg-section">
                     <h3>Heritage Walks</h3>
                     <p class="n-event-info">
                         Do you find history fascinating? Then you will love the Nandi Heritage Walk. An ancient fortress of Tipu Sultan, temples designed by the artistic Chola empire and more – this region is adorned with relics and monuments that celebrate a bygone era. Led by local and Bengaluru based historians, these walks are themed around Cornwallis & Tipu: The Sultan & the British in Battle, Ancient Bhoganandishwara Temple – India’s Centuries Old Heritage Meets Modernity and Nandi Hills Summit: The Legacy of a Hill Fortress. These walks narrate history with a local flavour and emphasise on the micro-history of the Nandi Hills and how it interplays with large historical themes.
@@ -322,7 +322,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="arena" class="n-events-pg-section">
+                <section id="arena" class="n-inside-pg-section">
                     <h3>Children’s Arena</h3>
                     <p class="n-event-info">
                         Indian traditional games were not just fun; they helped develop logical thinking, strategy, concentration, motor skills and more. If you miss the traditional games of your childhood and you wish to introduce your child to them too, come on over to the Nandi Habba. An exclusive children’s arena features various traditional games and handicrafts workshops (puppet making, pottery and more!). The arena is 100% environment-friendly and is guaranteed to bring immeasurable joy to the entire family!
@@ -375,7 +375,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="quiz" class="n-events-pg-section">
+                <section id="quiz" class="n-inside-pg-section">
                     <h3>Quiz</h3>
                     <p class="n-event-info">
                         How well do you know your city, its history, heritage and its fascinating environment? Local history is just as important and interesting as the national history; and the Nandi Habba Quiz Contest tests students’ knowledge of their city and the Nandi Hills. Conducted in two stages, this contest is open to all secondary school students from Bangalore. The preliminary quiz round will be conducted at a select location in Bangalore, through a moderated written round. The quiz will test students’ general knowledge about Nandi Hills, Chickaballapur district and history, nature and wildlife of Bengaluru. The final round of the event will be held at Nandi Habba.
@@ -439,7 +439,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="marathon" class="n-events-pg-section">
+                <section id="marathon" class="n-inside-pg-section">
                     <h3>Half Marathon</h3>
                     <p class="n-event-info">
                         Take to the Nandi Hills and see how far you’ve come since your first run. Even though the trail offers you a serene view of the majestic hills and air fresher than at home, this run is not for the weak-willed. Ready to put your training to the test?
@@ -507,7 +507,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <sectiona id="yoga" class="n-events-pg-section">
+                <sectiona id="yoga" class="n-inside-pg-section">
                     <h3>Yoga</h3>
                     <p class="n-event-info">
                         Experience the power of yoga in the Great Outdoors at the Nandi Habba. Featuring the city’s most popular yoga gurus accompanied by soothing music and the symphony of birds, this is a yoga session that will transform the way you practice yoga. It's guaranteed to be high on inspiration, energy and peace of mind. Just pack your mat, bring a water bottle, and we’ll see you on the grass.
@@ -562,7 +562,7 @@ get_header(); ?>
                     <div class="clearfix margin-bottom-20"></div>
                 </section>
 
-                <section id="music" class="n-events-pg-section">
+                <section id="music" class="n-inside-pg-section">
                     <h3>Music</h3>
                     <img src="/wp-content/themes/nandi/assets/images/events_inner_raghu.jpg" alt="">
                     <p class="n-event-info n-music-info">

@@ -15,6 +15,11 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js no-svg">
 <head>
+
+<link rel="icon" href="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" type="image/x-icon" />
+<link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" type="image/x-icon" />
+
+
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
