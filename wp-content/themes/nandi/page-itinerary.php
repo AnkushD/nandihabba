@@ -31,7 +31,7 @@ get_header(); ?>
                                 7:00 AM - 9:00 AM
                             </div>
                             <div class="n-name">
-                                Cyclothon
+                                <a href="/events/#cyclothon">Cyclothon</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -45,7 +45,7 @@ get_header(); ?>
                                 7.30 AM - 9.30 AM
                             </div>
                             <div class="n-name">
-                                Yoga at Nandi
+                                <a href="/events/#yoga"> Yoga at Nandi </a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -59,7 +59,7 @@ get_header(); ?>
                                 8.00 AM - 10.00 AM
                             </div>
                             <div class="n-name">
-                                Heritage/Nature Walks
+                                <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -73,7 +73,7 @@ get_header(); ?>
                                 10.00 AM - 1.00 PM
                             </div>
                             <div class="n-name">
-                                Quiz Semi Finals
+                                <a href="/events/#quiz">Quiz Semi Finals</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -87,7 +87,7 @@ get_header(); ?>
                                 2.00 PM - 4.00 PM
                             </div>
                             <div class="n-name">
-                                Quiz Finals
+                                <a href="/events/#quiz">Quiz Finals</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -101,7 +101,7 @@ get_header(); ?>
                                 10.00 AM Onwards
                             </div>
                             <div class="n-name">
-                                Flea Market, Children’s Arena
+                                <a href="/events/#arena">Flea Market, Children’s Arena</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -115,7 +115,7 @@ get_header(); ?>
                                 3.00 PM - 5.00 PM
                             </div>
                             <div class="n-name">
-                                Heritage/Nature Walks
+                                <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -129,7 +129,7 @@ get_header(); ?>
                                 4.00 PM - 6.00 PM
                             </div>
                             <div class="n-name">
-                                Raghu Dixit Concert
+                                <a href="/events/#music">Raghu Dixit Concert</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -168,7 +168,7 @@ get_header(); ?>
                                 6.00 AM - 9.00 AM
                             </div>
                             <div class="n-name">
-                                Half Marathon, Nandi 5k
+                                <a href="/events/#marathon">Half Marathon, Nandi 5k</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -182,7 +182,7 @@ get_header(); ?>
                                 7.30 AM - 9.30 AM
                             </div>
                             <div class="n-name">
-                                Yoga at Nandi
+                                <a href="/events/#yoga">Yoga at Nandi</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -196,7 +196,7 @@ get_header(); ?>
                                 8.00 AM - 10.00 AM
                             </div>
                             <div class="n-name">
-                                Heritage/Nature Walks
+                                <a href="/events/#naturewalk">Heritage/Nature Walks</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -210,7 +210,7 @@ get_header(); ?>
                                 10.00 AM Onwards
                             </div>
                             <div class="n-name">
-                                Flea Market, Children’s arena
+                                <a href="/events/#arena">Flea Market, Children’s arena</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -224,7 +224,8 @@ get_header(); ?>
                                 3.00 PM - 5.00 PM
                             </div>
                             <div class="n-name">
-                                Heritage/Nature Walks
+                                <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
+                                
                             </div>
 
                             <div class="clearfix"></div>
@@ -238,7 +239,7 @@ get_header(); ?>
                                 4.00 PM - 6.00 PM
                             </div>
                             <div class="n-name">
-                                Lagori Concert
+                                <a href="/events/#music">Lagori Concert</a>
                             </div>
 
                             <div class="clearfix"></div>

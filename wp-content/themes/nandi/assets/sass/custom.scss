@@ -1161,6 +1161,10 @@ a {
     .n-name {
         float: left;
         padding: 3px 0;
+
+        a {
+            color: inherit;
+        }
     }
 
     .n-time {
