@@ -6,7 +6,7 @@ $(document).ready(function(){
 
     $('#js-home-masthead-carousel').slick({
         dots: true,
-        autoplay: true,
+        //autoplay: true,
         pauseOnFocus: false,
         autoplaySpeed: 4000
     });
@@ -24,7 +24,24 @@ $(document).ready(function(){
         shareIn: "popup",
         url: "http://www.nandihabba.com",
         text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!",
-        shares: ["twitter", "facebook", "googleplus"],
+        shares: [
+            {
+                share: "twitter",
+                logo: "fa fa-twitter-square"
+            },
+            {
+                share: "facebook",
+                logo: "fa fa-facebook-square"
+            },
+            {
+                share: "linkedin",
+                logo: "fa fa-linkedin-square"
+            },
+            {
+                share: "googleplus",
+                logo: "fa fa-google-plus-square"
+            }
+        ],
         on: {
             click: function(e) { hideDropdown(e) }
         }
@@ -34,9 +51,26 @@ $(document).ready(function(){
         showLabel: false,
         showCount: false,
         shareIn: "popup",
-        url: "http://www.nandihabba.com",
-        text: "Text to share",
-        shares: ["twitter", "facebook", "googleplus"],
+        url: "http://www.nandihabba.com/events",
+        text: $('.n-quote').text().trim(),
+        shares: [
+            {
+                share: "twitter",
+                logo: "fa fa-twitter-square"
+            },
+            {
+                share: "facebook",
+                logo: "fa fa-facebook-square"
+            },
+            {
+                share: "linkedin",
+                logo: "fa fa-linkedin-square"
+            },
+            {
+                share: "googleplus",
+                logo: "fa fa-google-plus-square"
+            }
+        ],
         on: {
             click: function(e) { hideDropdown(e) }
         }

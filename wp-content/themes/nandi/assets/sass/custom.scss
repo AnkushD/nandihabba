@@ -148,11 +148,11 @@ a {
     background: $brand-primary;
     color: #fff !important;
     height: 34px;
-    padding: 6px 20px 6px 10px;
-    line-height: 18px;
-    font-family: "Montserrat";
+    font-size: 14px;
     font-weight: 700;
-    font-size: 15px;
+    line-height: 20px;
+    font-family: "Montserrat";
+    padding: 6px 20px 6px 10px;
 
     &:before,
     &:after {
@@ -191,10 +191,10 @@ a {
     color: #fff !important;
     height: 34px;
     padding: 6px 20px 6px 10px;
-    line-height: 18px;
+    line-height: 20px;
     font-family: "Montserrat";
     font-weight: 700;
-    font-size: 15px;
+    font-size: 14px;
 
     &:after {
         content: "";
@@ -227,7 +227,8 @@ a {
     padding: 8px 20px;
     font-family: "Montserrat";
     font-weight: 700;
-    font-size: 15px;
+    font-size: 14px;
+    line-height: 20px;
     letter-spacing: 1px;
 
     &:hover {
@@ -243,7 +244,8 @@ a {
     padding: 8px 20px;
     font-family: "Montserrat";
     font-weight: 700;
-    font-size: 15px;
+    font-size: 14px;
+    line-height:20px;
     letter-spacing: 1px;
 }
 
@@ -308,7 +310,7 @@ a {
 
     .navigation-top {
         float: right;
-        padding-top: 115px;
+        padding-top: 112px;
         padding-right: 30px;
 
     }
@@ -342,7 +344,7 @@ a {
         box-shadow: none;
         border: 1px solid #e6e6e6;
         padding: 0;
-        min-width: 148px !important;
+        min-width: 193px !important;
         border-radius: 5px;
         overflow: hidden;
     }
@@ -362,18 +364,6 @@ a {
 
     .jssocials-share-logo {
         font-size: 42px !important;
-    }
-
-    .fa-twitter:before {
-        content: "\f081" !important;
-    }
-
-    .fa-facebook:before {
-        content: "\f082" !important;
-    }
-
-    .fa-google:before {
-        content: "\f0d4" !important;
     }
 }
 
@@ -402,9 +392,9 @@ a {
                 padding: 10px 15px;
                 display: inline-block;
                 font-family: "Montserrat";
-                font-size: 15px;
+                font-size: 14px;
                 font-weight: 500;
-                letter-spacing: .5px;
+                letter-spacing: 1px;
                 padding: 5px 15px;
                 border: 0;
             }
@@ -453,9 +443,9 @@ a {
                 border: 0;
                 display: inline-block;
                 font-family: "Montserrat";
-                font-size: 15px;
+                font-size: 14px;
                 font-weight: 500;
-                letter-spacing: .5px;
+                letter-spacing: 1px;
 
                 &:after {
                     opacity: 0;
@@ -653,6 +643,20 @@ a {
 
             @include epicTransform(skewX(-30deg));
         }
+
+        &.n-on-hover {
+            &:hover {
+                .n-slide-tilt-bg {
+                    background: rgba(0,0,0,.8);
+                }
+                .n-default {
+                    display: none !important;
+                }
+                .n-show-on-hover {
+                    display: block !important;
+                }
+            }
+        }
     }
 
     .n-slide-content {
@@ -703,17 +707,8 @@ a {
             margin-left: 1px;
         }
 
-        .n-hover {
+        .n-show-on-hover {
             display: none;
-        }
-
-        &:hover {
-            .n-default {
-                display: none !important;
-            }
-            .n-hover {
-                display: block !important;
-            }
         }
     }
 
@@ -1046,12 +1041,12 @@ a {
     background-position: center;
     position: relative;
     background: #666 url("../images/inner_mast.svg") no-repeat center;
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 
     .n-flat-bar-inner {
         background-color: rgba(0,0,0,.5);
         color: #fff;
-        padding: 20px 40px;
+        padding: 25px 40px;
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -1061,6 +1056,7 @@ a {
             font-family: "Roboto";
             font-weight: 200;
             font-size: pxToRem(60px);
+            margin: 0;
         }
     }
     .n-flat-bar-rt {

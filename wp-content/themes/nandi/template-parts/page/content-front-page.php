@@ -36,14 +36,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-place-item">
+                        <div class="n-overlay-item n-on-hover n-place-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         VALLEY OF THE WIND </br> NANDI HILLS
                                     </div>
-                                    <div class="n-hover n-direct-item">
+                                    <div class="n-show-on-hover n-direct-item">
                                         <a href="">
                                             <i class="fa fa-map-marker fa-2x"></i>
                                             <span>DIRECT ME</span>
@@ -52,14 +52,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-date-item">
+                        <div class="n-overlay-item n-on-hover n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         28-29 OCTOBER <br /> 2017
                                     </div>
-                                    <div class="n-hover n-reminder-item">
+                                    <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
                                             <i class="fa fa-calendar fa-2x"></i>
                                             <span>REMIND ME</span>
@@ -96,14 +96,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-place-item">
+                        <div class="n-overlay-item n-on-hover n-place-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         VALLEY OF THE WIND </br> NANDI HILLS
                                     </div>
-                                    <div class="n-hover n-direct-item">
+                                    <div class="n-show-on-hover n-direct-item">
                                         <a href="">
                                             <i class="fa fa-map-marker fa-2x"></i>
                                             <span>DIRECT ME</span>
@@ -112,14 +112,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-date-item">
+                        <div class="n-overlay-item n-on-hover n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         28-29 OCTOBER <br /> 2017
                                     </div>
-                                    <div class="n-hover n-reminder-item">
+                                    <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
                                             <i class="fa fa-calendar fa-2x"></i>
                                             <span>REMIND ME</span>
@@ -156,14 +156,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-place-item">
+                        <div class="n-overlay-item n-on-hover n-place-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         VALLEY OF THE WIND </br> NANDI HILLS
                                     </div>
-                                    <div class="n-hover n-direct-item">
+                                    <div class="n-show-on-hover n-direct-item">
                                         <a href="">
                                             <i class="fa fa-map-marker fa-2x"></i>
                                             <span>DIRECT ME</span>
@@ -172,14 +172,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-date-item">
+                        <div class="n-overlay-item n-on-hover n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         28-29 OCTOBER <br /> 2017
                                     </div>
-                                    <div class="n-hover n-reminder-item">
+                                    <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
                                             <i class="fa fa-calendar fa-2x"></i>
                                             <span>REMIND ME</span>
@@ -216,14 +216,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-place-item">
+                        <div class="n-overlay-item n-on-hover n-place-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         VALLEY OF THE WIND </br> NANDI HILLS
                                     </div>
-                                    <div class="n-hover n-direct-item">
+                                    <div class="n-show-on-hover n-direct-item">
                                         <a href="">
                                             <i class="fa fa-map-marker fa-2x"></i>
                                             <span>DIRECT ME</span>
@@ -232,14 +232,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="n-overlay-item n-date-item">
+                        <div class="n-overlay-item n-on-hover n-date-item">
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
                                         28-29 OCTOBER <br /> 2017
                                     </div>
-                                    <div class="n-hover n-reminder-item">
+                                    <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
                                             <i class="fa fa-calendar fa-2x"></i>
                                             <span>REMIND ME</span>

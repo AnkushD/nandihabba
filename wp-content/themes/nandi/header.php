@@ -16,8 +16,8 @@
 <html <?php language_attributes(); ?> class="no-js no-svg">
 <head>
 
-<link rel="icon" href="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" type="image/x-icon" />
-<link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" type="image/x-icon" />
+<link rel="icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/wp-content/themes/nandi/assets/images/favicon-1.png" type="image/x-icon" />
 
 
 <meta charset="<?php bloginfo( 'charset' ); ?>">
