@@ -17,7 +17,6 @@ $(document).ready(function(){
 
     // On before slide change
     slider.on('afterChange', function(event, slick, currentSlide, nextSlide){
-        console.log(item_length, slick.slickCurrentSlide());
 
         if( item_length === slick.slickCurrentSlide() && slick.options.autoplay){
             $('#js-home-masthead-carousel').slick('slickSetOption', 'autoplay', false, true);
@@ -141,8 +140,8 @@ $(document).ready(function(){
         var currentEle =  $(e.target);
 
         $('.js-ticket-tooltip').each(function() {
-            console.log($(e.target).is($(this)));
             if($(e.target).is($(this))) return;
+
             $(this).tooltip('hide')
         });
     });
@@ -160,5 +159,11 @@ $(document).ready(function(){
             scrollTop: $(section).offset().top - 100
         });
     });
+
+    $('#js-show-more-events').click(function() {
+        $("#js-event-section").animate({'max-height' : '5000px'},'slow'); 
+        $(this).fadeOut();
+    });
+
 
 });

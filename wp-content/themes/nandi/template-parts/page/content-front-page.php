@@ -310,7 +310,7 @@
                 </div>
             </section>
 
-            <section class="n-section n-pg-side-padding n-events-section">
+            <section class="n-section n-pg-side-padding n-events-section" id="js-event-section">
                 <div class="row">
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
@@ -341,6 +341,12 @@
                             </p>
                             <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
+                    </div>
+                </div>
+
+                <div class="n-show-more-btn" id="js-show-more-events">
+                    <div class="n-btn">
+                        <i class="fa fa-caret-down"></i>
                     </div>
                 </div>
 

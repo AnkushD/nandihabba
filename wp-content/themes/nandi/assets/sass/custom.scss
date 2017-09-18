@@ -876,6 +876,42 @@ a {
 }
 
 .n-events-section {
+    max-height: 510px;
+    overflow: hidden;
+    position: relative;
+
+    .n-show-more-btn {
+        position: absolute;
+        border-top: 2px solid #e6e6e6;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 60px;
+        background: #fff;
+
+        .n-btn {
+            cursor: pointer;
+            position: absolute;
+            top: -26px;
+            width: 50px;
+            text-align: center;
+            height: 50px;
+            border-radius: 100%;
+            border: 2px solid #e6e6e6;
+            line-height: 52px;
+            margin: auto;
+            left: 0;
+            right: 0;
+            background: #fff;
+
+            .fa {
+                position: relative;
+                color: $brand-primary;
+                font-size: 22px;
+            }
+        }
+    }
+
     .n-event-item {
         margin-bottom: 50px;
 
