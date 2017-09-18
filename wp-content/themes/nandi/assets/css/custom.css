@@ -12238,9 +12238,9 @@ a:link, a:visited, a:hover, a:active {
   font-size: 14px;
   text-align: left;
   line-height: 1.2;
-  padding: 10px 12px 20px;
+  padding: 15px 12px 15px;
   max-width: 230px;
-  letter-spacing: .3px;
+  letter-spacing: .2px;
   font-family: "Roboto";
   border: 1px solid #ccc;
 }
@@ -12727,7 +12727,7 @@ a:link, a:visited, a:hover, a:active {
   left: -75px;
   width: 75px;
   height: 105px;
-  background: #FE2568;
+  background: #00cf4c;
   -webkit-transform-origin: bottom left;
   -moz-transform-origin: bottom left;
   transform-origin: bottom left;

@@ -4,12 +4,33 @@ $(document).ready(function(){
 
     var goToTopTimer = false;
 
-    $('#js-home-masthead-carousel').slick({
+    var item_length = $('#js-home-masthead-carousel > div').length - 1;
+
+    var slider = $('#js-home-masthead-carousel').slick({
         dots: true,
-        //autoplay: true,
+        autoplay: true,
         pauseOnFocus: false,
         autoplaySpeed: 4000
     });
+
+    /*
+
+    // On before slide change
+    slider.on('afterChange', function(event, slick, currentSlide, nextSlide){
+        //check the length of total items in .slide container
+        //if that number is the same with the number of the last slider
+        //Then pause the slider
+        console.log(item_length, slick.slickCurrentSlide());
+
+        if( item_length === slick.slickCurrentSlide() && slick.options.autoplay){
+            //slick.slickSetOption("autoplay", false, false);
+
+            $('#js-home-masthead-carousel').slick('autoplay', false, false);
+            slider.slickGoTo(2);
+        };
+    });
+    
+    */
 
     $('#js-home-trivia-carousel').slick({
         pauseOnFocus: false,
