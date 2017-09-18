@@ -38,8 +38,8 @@ $(document).ready(function(){
         showLabel: false,
         showCount: false,
         shareIn: "popup",
-        //url: window.location.href,
-        //text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!",
+        url: window.location.href,
+        text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!",
         shares: [
             {
                 share: "twitter",
