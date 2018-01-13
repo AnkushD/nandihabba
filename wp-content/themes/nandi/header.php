@@ -59,10 +59,11 @@
             <ul class="list-inline">
                 <li class="n-brand-icon">
                     <a href="/">
-                        <!-- <img src="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" alt="nandi_logo" /> -->
+                        <img src="/wp-content/themes/nandi/assets/images/NH_LOGO.svg" alt="nandi_logo" />
+                        <!-- 
                         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                             width="341px" height="188px" viewBox="0 0 341 188" enable-background="new 0 0 341 188" xml:space="preserve">
-                        <g>
+                            <g>
                             <path fill="#00CE2F" d="M111.92,0C111.92,0,0.916,185.711,0,187.355h224.857L111.92,0z"/>
                             <g>
                                 <path fill="#FFFFFF" d="M84.162,103.875c3.266,0.632,4.896,1.942,4.896,3.931c0.471,3.023,0.705,5.758,0.705,8.203v2.177
@@ -365,6 +366,7 @@
                             </g>
                         </g>
                         </svg>
+                        -->
                     </a>
                 </li>
                 <li class="n-date">
