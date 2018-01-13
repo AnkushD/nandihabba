@@ -20,8 +20,9 @@ get_header(); ?>
 
                             <div class="n-slide-content">
                                 <div class="n-slide-title">
-                                    <span class="n-slug">RIDE AWAY</span>
+                                    <span class="n-slug">Cycle RIDE</span>
                                     <p class="n-title">HERITAGE</p>
+                                    <p style="height: 32px;"></p>
                                     <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">
                                         PARTICIPATE
                                     </a -->
@@ -84,7 +85,7 @@ get_header(); ?>
                                 <div class="n-slide-title">
                                     <span class="n-slug">RUN UPHILL</span>
                                     <p class="n-title">MARATHON</p>
-                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -144,7 +145,7 @@ get_header(); ?>
                                 <div class="n-slide-title">
                                     <span class="n-slug">HERITAGE+NATURE</span>
                                     <p class="n-title">WALKS</p>
-                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -204,7 +205,7 @@ get_header(); ?>
                                 <div class="n-slide-title">
                                     <span class="n-slug">PLAY TIME</span>
                                     <p class="n-title">FUN & GAMES</p>
-                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
+                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -308,6 +309,7 @@ get_header(); ?>
 
             <section class="n-section n-pg-side-padding n-events-section" id="js-event-section">
                 <div class="row">
+                    <!-- 
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">CYCLOTHON</h3>
@@ -315,9 +317,11 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
+                    -->
+
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">HALF MARATHON</h3>
@@ -325,9 +329,10 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">WALKS</h3>
@@ -335,10 +340,21 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="n-event-item">
+                            <h3 class="n-event-name">YOGA</h3>
+                            <div class="n-event-img e-6"> </div>
+                            <p class="n-event-info">
+                                Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
+                            </p>
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                 </div>
+
 
                 <div class="n-show-more-btn" id="js-show-more-events">
                     <div class="n-btn">
@@ -358,9 +374,10 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
+                    <!--
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">QUIZ</h3>
@@ -368,9 +385,10 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">YOGA</h3>
@@ -378,13 +396,15 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
+                    -->
                 </div>
 
-                <hr />
 
+                <!--
+                <hr />
                 <div class="row">
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
@@ -393,10 +413,11 @@ get_header(); ?>
                             <p class="n-event-info">
                                 Raghu Dixit, Lagori, Indian Music Experience and more. At Nandi Hills. You must be there for the experience.
                             </p>
-                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
+                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
                         </div>
                     </div>
                 </div>
+                -->
             </section>
 
             <section class="n-section n-pg-side-padding n-restoration-section">

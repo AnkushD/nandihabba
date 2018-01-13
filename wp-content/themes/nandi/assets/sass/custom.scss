@@ -668,8 +668,8 @@ a {
 
     .n-slide-title {
         font-family: Roboto;
-        //margin-bottom: 40px;
-        margin-bottom: 100px;
+        margin-bottom: 40px;
+        //margin-bottom: 100px;
 
         .n-slug {
             color: $brand-green;
@@ -877,8 +877,7 @@ a {
 }
 
 .n-events-section {
-    //max-height: 510px;
-    max-height: 445px;
+    max-height: 510px;
     overflow: hidden;
     position: relative;
 
