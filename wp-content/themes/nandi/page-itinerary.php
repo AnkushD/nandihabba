@@ -15,8 +15,8 @@ get_header(); ?>
                     </div>
                     <div class="n-flat-bar-rt">
                         <ul class="list-inline" id="js-event-scroll">
-                            <li><a href="#itinerary28" class="n-active">28 OCTOBER</a></li>
-                            <li><a href="#itinerary29">29 OCTOBER</a></li>
+                            <li><a href="#itinerary28" class="n-active">3 FEBRUARY</a></li>
+                            <li><a href="#itinerary29">4 FEBRUARY</a></li>
                         </ul>
                     </div>
                 </div>
@@ -24,9 +24,9 @@ get_header(); ?>
 
             <div class="n-pg-side-padding n-itinerary-pg-content">
                 <section class="n-itinerary-section n-itinerary-events-section" id="itinerary28">
-                    <h3>28 October, 2017</h3>
+                    <h3>3 FEBRUARY, 2018</h3>
                     <div class="n-events-list">
-                        <div class="n-list-item clearfix">
+                        <!-- div class="n-list-item clearfix">
                             <div class="n-time">
                                 7:00 AM - 9:00 AM
                             </div>
@@ -39,21 +39,7 @@ get_header(); ?>
                             <div class="n-action">
                                 <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
-                        </div>
-                        <div class="n-list-item clearfix">
-                            <div class="n-time">
-                                7.30 AM - 9.30 AM
-                            </div>
-                            <div class="n-name">
-                                <a href="/events/#yoga"> Yoga at Nandi </a>
-                            </div>
-
-                            <div class="clearfix"></div>
-
-                            <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
-                            </div>
-                        </div>
+                        </div -->
                         <div class="n-list-item clearfix">
                             <div class="n-time">
                                 8.00 AM - 10.00 AM
@@ -68,6 +54,21 @@ get_header(); ?>
                                 <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
+                        <div class="n-list-item clearfix">
+                            <div class="n-time">
+                                8.00 AM - 11.00 AM
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#wildsketch">SKETCH WORKSHOP</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
+                            </div>
+                        </div>
+                        <!-- 
                         <div class="n-list-item clearfix">
                             <div class="n-time">
                                 10.00 AM - 1.00 PM
@@ -96,6 +97,7 @@ get_header(); ?>
                                 <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
+                        -->
                         <div class="n-list-item clearfix">
                             <div class="n-time">
                                 10.00 AM Onwards
@@ -124,12 +126,26 @@ get_header(); ?>
                                 <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
                         </div>
-                        <div class="n-list-item clearfix">
+                        <!-- div class="n-list-item clearfix">
                             <div class="n-time">
                                 4.00 PM - 6.00 PM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#music">Raghu Dixit Concert</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
+                            </div>
+                        </div -->
+                        <div class="n-list-item clearfix">
+                            <div class="n-time">
+                                4.00 PM - 5.30 PM
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#yoga"> Yoga at Nandi </a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -143,7 +159,7 @@ get_header(); ?>
 
                 <section class="n-itinerary-section">
                     <div class="n-quote n-itinerary-quote">
-                        Nandi Habba 2017 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage by UWBe.
+                        Nandi Habba 2018 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage by UWBe.
                     </div>
 
                     <div class="text-right">
@@ -161,7 +177,7 @@ get_header(); ?>
                 </section>
 
                 <section class="n-itinerary-section n-itinerary-events-section" id="itinerary29">
-                    <h3>29 October, 2017</h3>
+                    <h3>4 FEBRUARY, 2018</h3>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">
                             <div class="n-time">
@@ -179,7 +195,7 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                7.30 AM - 9.30 AM
+                                7.00 AM - 8.30 AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#yoga">Yoga at Nandi</a>
@@ -207,6 +223,20 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
+                                8.00 AM - 11.00 AM
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#wildsketch">SKETCH WORKSHOP</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
+                            </div>
+                        </div>
+                        <!-- div class="n-list-item clearfix">
+                            <div class="n-time">
                                 10.00 AM Onwards
                             </div>
                             <div class="n-name">
@@ -218,7 +248,7 @@ get_header(); ?>
                             <div class="n-action">
                                 <a class="btn n-brand-btn js-ticket-tooltip-hover" href="#/">PARTICIPATE</a>
                             </div>
-                        </div>
+                        </div -->
                         <div class="n-list-item clearfix">
                             <div class="n-time">
                                 3.00 PM - 5.00 PM

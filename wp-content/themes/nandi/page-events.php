@@ -15,20 +15,23 @@ get_header(); ?>
                     </div>
                     <div class="n-flat-bar-rt">
                         <ul class="list-inline" id="js-event-scroll">
-                            <li><a href="#cyclothon" class="n-active">CYCLOTHON</a></li>
-                            <li><a href="#naturewalk">NATURE WALK</a></li>
+                            <!-- li><a href="#cyclothon" class="n-active">CYCLOTHON</a></li -->
+                            <li><a href="#naturewalk" class="n-active">NATURE WALK</a></li>
                             <li><a href="#heritagewalk"> HERITAGE WALK</a></li>
-                            <li><a href="#arena"> CHILDREN’S ARENA</a></li>
-                            <li><a href="#quiz"> QUIZ</a></li>
+                            <li><a href="#wildsketch">WILDLIFE SKETCH</a></li -->
+                            <li><a href="#templesketch">TEMPLE HERITAGE SKETCH </a></li -->
+                            <!-- li><a href="#arena"> CHILDREN’S ARENA</a></li -->
+                            <!-- li><a href="#quiz"> QUIZ</a></li -->
                             <li><a href="#marathon"> MARATHON</a></li>
                             <li><a href="#yoga"> YOGA</a></li>
-                            <li><a href="#music"> MUSIC</a></li>
+                            <!-- li><a href="#music"> MUSIC</a></li -->
                         </ul>
                     </div>
                 </div>
             </div>
 
             <div class="n-pg-side-padding n-inside-pg-content">
+                <!-- 
                 <section id="cyclothon" class="n-inside-pg-section">
                     <h3>Cyclothon</h3>
                     <p class="n-event-info">
@@ -129,6 +132,7 @@ get_header(); ?>
                         </div>
                     </div>
                 </section>
+                -->
 
                 <section id="naturewalk" class="n-inside-pg-section">
                     <h3>Nature Walk</h3>
@@ -140,10 +144,10 @@ get_header(); ?>
                         <p class="n-block-title">Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>October 28th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                                <span>February 3rd - 8.00am-10.00am, 3.00pm-5.00pm</span>
                             </li>
                             <li>
-                               <span>October 29th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                               <span>February 4th - 8.00am-10.00am, 3.00pm-5.00pm</span>
                             </li>
                         </ul>
                     </div>
@@ -234,10 +238,10 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>October 28th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                                <span>February 3rd - 8.00am-10.00am, 3.00pm-5.00pm</span>
                             </li>
                             <li>
-                               <span>October 29th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                               <span>February 4th - 8.00am-10.00am, 3.00pm-5.00pm</span>
                             </li>
                         </ul>
                     </div>
@@ -315,6 +319,176 @@ get_header(); ?>
                     </div>
                 </section>
 
+                <section id="wildsketch" class="n-inside-pg-section">
+                    <h3>WILDLIFE SKETCH WORKSHOP</h3>
+                    <p class="n-event-info">
+                        Celebrate the natural world through the tradition of observational drawing.  Venture into the countryside and places of natural interest recording the changing seasons through sketches.
+                        You will sketch animals/birds in fast lines, working out their shapes and colours – and learn not to be daunted when they move around.  You will go home with lots of new material as well as the experience of drawing from life.  It’s also great fun
+                    </p>
+                    <p class="n-event-info">
+                        Have you always wished you could draw the wild animals/wild birds or the squirrel chewing peanuts at the feeder?
+                        <br/><br/>
+                        Join us for the wildlife sketching workshop
+                    </p>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Event Schedule</p>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span>February 3rd - 8.00am-11.00am (2 batches of 25 each)</span>
+                            </li>
+                            <li>
+                               <span>February 4th - 8.00am-11.00am (2 batches of 25 each)</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Cost</p>
+                        <p>
+                            475 Rs per head
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Inclusions</p>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span>Pencil</span>
+                            </li>
+                            <li>
+                               <span>Pen</span>
+                            </li>
+                            <li>
+                                <span>Watercolors</span>
+                            </li>
+                            <li>
+                               <span>Sketchbook</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Venue</p>
+                        <p>
+                            Valley of Wind
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Cancellation Policy</p>
+                        <p>
+                            No refund would be provided. 
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Organisers</p>
+                        <p>
+                            Sketch Workshop organised by Namma Nimma Cycle Foundation.
+                        </p>
+                    </div>
+
+                    <hr class="n-thik" />
+                    <div class="text-right margin-bottom-30">
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                    </div>
+                </section>
+
+                <section id="templesketch" class="n-inside-pg-section">
+                    <h3>TEMPLE HERITAGE SKETCH WORKSHOP</h3>
+                    <p class="n-event-info">
+                        This is a great way of exploring history and heritage through drawing. We will be sketching the amazing Nandi Temple below nandi hills. It is a 1300 year old beautiful heritage structure built by the cholas.
+                        <br/>
+                        <br/>
+                        This workshop is the Boot Camp to all those who think they can’t draw, or even the ones who have been drawing for a while and want to relearn the art of sketching.
+                    </p>
+                    <p class="n-event-info">
+                        Have you always wished you could draw the beautiful temple and record the observations.
+                        <br/><br/>
+                        Come learn to sketch our ancient heritage.
+                    </p>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Event Schedule</p>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span>February 3rd - 8.00am-11.00am (2 batches of 25 each)</span>
+                            </li>
+                            <li>
+                               <span>February 4th - 8.00am-11.00am (2 batches of 25 each)</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Look Forward to</p>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span>Observe temple structures with perspective and detailing with ease</span>
+                            </li>
+                            <li>
+                               <span>Create free flowing sketches</span>
+                            </li>
+                            <li>
+                               <span>Create magic with your hands using pen and watercolor</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Cost</p>
+                        <p>
+                            475 Rs per head
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Inclusions</p>
+                        <ul class="list-unstyled">
+                            <li>
+                                <span>Pencil</span>
+                            </li>
+                            <li>
+                               <span>Pen</span>
+                            </li>
+                            <li>
+                                <span>Watercolors</span>
+                            </li>
+                            <li>
+                               <span>Sketchbook</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Venue</p>
+                        <p>
+                            Valley of Wind
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Cancellation Policy</p>
+                        <p>
+                            No refund would be provided. 
+                        </p>
+                    </div>
+
+                    <div class="n-small-text n-block">
+                        <p class="n-block-title">Organisers</p>
+                        <p>
+                            Sketch Workshop organised by Namma Nimma Cycle Foundation.
+                        </p>
+                    </div>
+
+                    <hr class="n-thik" />
+                    <div class="text-right margin-bottom-30">
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                    </div>
+                </section>
+
+                <!--
                 <section id="arena" class="n-inside-pg-section">
                     <h3>Children’s Arena</h3>
                     <p class="n-event-info">
@@ -332,10 +506,10 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>October 28th - 10.00am-5.00pm</span>
+                                <span>February 3rd - 10.00am-5.00pm</span>
                             </li>
                             <li>
-                               <span>October 29th - 10.00am-5.00pm</span>
+                               <span>February 4th - 10.00am-5.00pm</span>
                             </li>
                         </ul>
                     </div>
@@ -367,7 +541,9 @@ get_header(); ?>
                         <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
                     </div>
                 </section>
+                -->
 
+                <!--
                 <section id="quiz" class="n-inside-pg-section">
                     <h3>Quiz</h3>
                     <p class="n-event-info">
@@ -381,7 +557,7 @@ get_header(); ?>
                                 <span>Prelims - October 14th</span>
                             </li>
                             <li>
-                               <span>Finals - October 28th</span>
+                               <span>Finals - February 3rd</span>
                             </li>
                         </ul>
                     </div>
@@ -431,6 +607,7 @@ get_header(); ?>
                         <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
                     </div>
                 </section>
+                -->
 
                 <section id="marathon" class="n-inside-pg-section">
                     <h3>Half Marathon</h3>
@@ -451,9 +628,9 @@ get_header(); ?>
                             <li>
                                 <span>Half Marathon (21kms) - 0630hrs onwards</span>
                             </li>
-                            <li>
+                            <!-- li>
                                <span>Family and Fun Run (5kms) - 0730hrs onwards</span>
-                            </li>
+                            </li -->
                         </ul>
                     </div>
 
@@ -517,10 +694,10 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>October 28th - 7.30am-9.30am</span>
+                                <span>February 3rd - 4.00pm-5.30pm</span>
                             </li>
                             <li>
-                               <span>October 29th - 7.30am-9.30am</span>
+                               <span>February 4th - 7.00am-8.30am</span>
                             </li>
                         </ul>
                     </div>
@@ -555,6 +732,7 @@ get_header(); ?>
                     <div class="clearfix margin-bottom-20"></div>
                 </section>
 
+                <!--
                 <section id="music" class="n-inside-pg-section">
                     <h3>Music</h3>
                     <img src="/wp-content/themes/nandi/assets/images/events_inner_raghu.jpg" alt="">
@@ -590,6 +768,7 @@ get_header(); ?>
 
                     <div class="clearfix margin-bottom-20"></div>
                 </section>
+                -->
             </div>
 		</main><!-- #main -->
 	</div><!-- #primary -->

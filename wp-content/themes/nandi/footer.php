@@ -24,7 +24,7 @@
 		<footer id="colophon" class="site-footer n-site-footer" role="contentinfo">
 			<div class="wrap">
                 <div class="n-copy-rights">
-                    © 2017. Nandi Habba. All Rights Reserved.
+                    © 2018. Nandi Habba. All Rights Reserved.
                 </div>
                 <div class="n-social-ic">
                     <ul class="list-inline">

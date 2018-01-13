@@ -25,10 +25,10 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-title">
                                     <span class="n-slug">RIDE AWAY</span>
-                                    <p class="n-title">CYCLOTHON</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">
+                                    <p class="n-title">HERITAGE</p>
+                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">
                                         PARTICIPATE
-                                    </a>
+                                    </a -->
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -57,7 +57,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        28-29 OCTOBER <br /> 2017
+                                        3-4 FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -88,7 +88,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">RUN UPHILL</span>
                                     <p class="n-title">MARATHON</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -117,7 +117,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        28-29 OCTOBER <br /> 2017
+                                        3-4 FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -148,7 +148,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">HERITAGE+NATURE</span>
                                     <p class="n-title">WALKS</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -177,7 +177,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        28-29 OCTOBER <br /> 2017
+                                        3-4 FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -208,7 +208,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">PLAY TIME</span>
                                     <p class="n-title">FUN & GAMES</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a -->
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -237,7 +237,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        28-29 OCTOBER <br /> 2017
+                                        3-4 FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -319,7 +319,7 @@
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -329,7 +329,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -339,7 +339,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                 </div>
@@ -362,7 +362,7 @@
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -372,7 +372,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -382,7 +382,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                 </div>
@@ -397,7 +397,7 @@
                             <p class="n-event-info">
                                 Raghu Dixit, Lagori, Indian Music Experience and more. At Nandi Hills. You must be there for the experience.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <!-- button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button -->
                         </div>
                     </div>
                 </div>
@@ -412,7 +412,7 @@
                     </div>
                     <div class="col-lg-8 col-md-7">
                         <p class="n-section-text margin-bottom-30">
-                            Nandi Habba 2017 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage.  This project is spearheaded by United Way of Bengaluru. It aims to inspire Bengalureans to be a part of an eco-tourism initiative, create world-class information centres, and establish a sustainable, zero carbon-footprint platform for tourists to explore Nandi Hills.
+                            Nandi Habba 2018 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage.  This project is spearheaded by United Way of Bengaluru. It aims to inspire Bengalureans to be a part of an eco-tourism initiative, create world-class information centres, and establish a sustainable, zero carbon-footprint platform for tourists to explore Nandi Hills.
                         </p>
                         <a class="btn n-brand-btn">READ MORE</a>
                         &nbsp;
