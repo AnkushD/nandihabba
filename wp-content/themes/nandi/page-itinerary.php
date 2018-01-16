@@ -42,7 +42,7 @@ get_header(); ?>
                         </div -->
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                8.00 AM - 10.00 AM
+                                7.00 AM - 9.30 AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
@@ -56,7 +56,7 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                8.00 AM - 11.00 AM
+                                10.00 AM - 12.30 AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#wildsketch">SKETCH WORKSHOP</a>
@@ -114,10 +114,10 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                3.00 PM - 5.00 PM
+                                3.30 PM - 6.00 PM
                             </div>
                             <div class="n-name">
-                                <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
+                                <a href="/events/#naturewalk">Nature Walks</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -184,7 +184,7 @@ get_header(); ?>
                                 6.00 AM - 9.00 AM
                             </div>
                             <div class="n-name">
-                                <a href="/events/#marathon">Half Marathon, Nandi 5k</a>
+                                <a href="/events/#marathon">Half Marathon, 10k, 5k</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -209,7 +209,7 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                8.00 AM - 10.00 AM
+                                7.00 AM - 9.30 AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#naturewalk">Heritage/Nature Walks</a>
@@ -223,7 +223,7 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                8.00 AM - 11.00 AM
+                                10.00 AM - 12.30 AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#wildsketch">SKETCH WORKSHOP</a>
