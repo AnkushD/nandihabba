@@ -1260,6 +1260,18 @@ a {
     .wrap {
         display: flex;
         justify-content: space-between;
+        align-items: end;
+    }
+
+    .n-sponsor {
+        margin-bottom: 20px;
+
+        p {
+            margin: 0;
+        }
+        img {
+            max-width: 200px;
+        }
     }
 
     .n-copy-rights {

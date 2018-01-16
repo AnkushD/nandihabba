@@ -144,10 +144,10 @@ get_header(); ?>
                         <p class="n-block-title">Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                                <span>February 3rd - 7.00am-9.30am (3 batches), 3.30pm-6.00pm (3 batches)</span>
                             </li>
                             <li>
-                               <span>February 4th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                               <span>February 4th - 7.00am-9.30am (3 batches)</span>
                             </li>
                         </ul>
                     </div>
@@ -198,7 +198,7 @@ get_header(); ?>
                                 <span>Paid pre-registration is mandatory for the walks. No walk-ins</span>
                             </li>
                             <li>
-                               <span>Maximum of 25-30 participants per walk, ant walks between 20-25 people per walk</span>
+                               <span>Maximum of 30 participants per batch, ant walks between 20-25 people per batch</span>
                             </li>
                             <li>
                                <span>You will be provided with a field notebook, pen, and an information foldout</span>
@@ -238,10 +238,10 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                                <span>February 3rd - 7.00am-9.30am</span>
                             </li>
                             <li>
-                               <span>February 4th - 8.00am-10.00am, 3.00pm-5.00pm</span>
+                               <span>February 4th - 7.00am-9.30am</span>
                             </li>
                         </ul>
                     </div>
@@ -289,7 +289,7 @@ get_header(); ?>
                                <span>Paid pre-registration is mandatory; no walk-ins</span>
                             </li>
                             <li>
-                               <span>Maximum of 20/25 participants per walk – for young and old alike, as long as they can walk without assistance and can stand around.</span>
+                               <span> 2 batches of 30 people in each - for young and old alike, as long as they can walk without assistance and can stand around.</span>
                             </li>
                             <li>
                                <span>Wear comfortable walking shoes or covered sandals</span>
@@ -335,10 +335,10 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 8.00am-11.00am (2 batches of 25 each)</span>
+                                <span>February 3rd - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                             <li>
-                               <span>February 4th - 8.00am-11.00am (2 batches of 25 each)</span>
+                               <span>February 4th - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                         </ul>
                     </div>
@@ -413,10 +413,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 8.00am-11.00am (2 batches of 25 each)</span>
-                            </li>
-                            <li>
-                               <span>February 4th - 8.00am-11.00am (2 batches of 25 each)</span>
+                                <span>February 3rd - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                         </ul>
                     </div>
@@ -610,7 +607,7 @@ get_header(); ?>
                 -->
 
                 <section id="marathon" class="n-inside-pg-section">
-                    <h3>Half Marathon</h3>
+                    <h3>Marathon</h3>
                     <p class="n-event-info">
                         Take to the Nandi Hills and see how far you’ve come since your first run. Even though the trail offers you a serene view of the majestic hills and air fresher than at home, this run is not for the weak-willed. Ready to put your training to the test?
                     </p>
@@ -628,23 +625,11 @@ get_header(); ?>
                             <li>
                                 <span>Half Marathon (21kms) - 0630hrs onwards</span>
                             </li>
-                            <!-- li>
-                               <span>Family and Fun Run (5kms) - 0730hrs onwards</span>
-                            </li -->
-                        </ul>
-                    </div>
-
-                    <div class="n-small-text n-block">
-                        <p class="n-block-title">Look Forward to</p>
-                        <ul class="list-unstyled">
                             <li>
-                               <span>Picturesque trails with refreshing air</span>
+                               <span>10K Marathon - 0645hrs onwards</span>
                             </li>
                             <li>
-                               <span>Glorious sunrise</span>
-                            </li>
-                            <li>
-                               <span>Seed bombing</span>
+                               <span>Maja Community Run (5Km) - 0700hrs onwards</span>
                             </li>
                         </ul>
                     </div>

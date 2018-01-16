@@ -324,7 +324,7 @@ get_header(); ?>
 
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
-                            <h3 class="n-event-name">HALF MARATHON</h3>
+                            <h3 class="n-event-name">MARATHON</h3>
                             <div class="n-event-img e-2"> </div>
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
@@ -452,9 +452,8 @@ get_header(); ?>
                         <img src="/wp-content/themes/nandi/assets/images/organizers_2.jpg" alt="United Way">
                         <p>United Way, Bengaluru</p>
                     </div>
-                    <div class="col-lg-4 col-md-4 n-org-item">
+                    <div class="col-lg-4 col-md-4 n-org-item" style="margin-bottom: 50px;">
                         <img src="/wp-content/themes/nandi/assets/images/organizers_3.jpg" alt="namma">
-                        <p>Namma Nimma Cycle Foundation</p>
                     </div>
                 </div>
             </section>

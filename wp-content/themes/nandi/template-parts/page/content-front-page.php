@@ -456,9 +456,8 @@
                         <img src="/wp-content/themes/nandi/assets/images/organizers_2.jpg" alt="United Way">
                         <p>United Way, Bengaluru</p>
                     </div>
-                    <div class="col-lg-4 col-md-4 n-org-item">
+                    <div class="col-lg-4 col-md-4 n-org-item" style="margin-bottom: 50px;">
                         <img src="/wp-content/themes/nandi/assets/images/organizers_3.jpg" alt="namma">
-                        <p>Namma Nimma Cycle Foundation</p>
                     </div>
                 </div>
             </section>
