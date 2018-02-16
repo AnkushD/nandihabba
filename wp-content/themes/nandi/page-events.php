@@ -15,8 +15,8 @@ get_header(); ?>
                     </div>
                     <div class="n-flat-bar-rt">
                         <ul class="list-inline" id="js-event-scroll">
-                            <!-- li><a href="#cyclothon" class="n-active">CYCLOTHON</a></li -->
-                            <li><a href="#naturewalk" class="n-active">NATURE WALK</a></li>
+                            <li><a href="#cyclothon" class="n-active">CYCLOTHON</a></li>
+                            <li><a href="#naturewalk">NATURE WALK</a></li>
                             <li><a href="#heritagewalk"> HERITAGE WALK</a></li>
                             <li><a href="#wildsketch">WILDLIFE SKETCH</a></li -->
                             <li><a href="#templesketch">TEMPLE HERITAGE SKETCH </a></li -->
@@ -31,7 +31,6 @@ get_header(); ?>
             </div>
 
             <div class="n-pg-side-padding n-inside-pg-content">
-                <!-- 
                 <section id="cyclothon" class="n-inside-pg-section">
                     <h3>Cyclothon</h3>
                     <p class="n-event-info">
@@ -111,7 +110,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
 
                     <div class="clearfix margin-bottom-20"></div>
@@ -132,7 +131,6 @@ get_header(); ?>
                         </div>
                     </div>
                 </section>
-                -->
 
                 <section id="naturewalk" class="n-inside-pg-section">
                     <h3>Nature Walk</h3>
@@ -224,7 +222,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
 
@@ -315,7 +313,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
 
@@ -391,7 +389,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
 
@@ -481,7 +479,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
 
@@ -535,7 +533,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
                 -->
@@ -601,7 +599,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
                 -->
@@ -658,7 +656,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
 
@@ -711,7 +709,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
 
                     <div class="clearfix margin-bottom-20"></div>
@@ -748,7 +746,7 @@ get_header(); ?>
 
                     <hr class="n-thik" />
                     <div class="text-right margin-bottom-30">
-                        <a class="btn n-brand-btn js-ticket-tooltip" href="#/">PARTICIPATE</a>
+                        <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
 
                     <div class="clearfix margin-bottom-20"></div>

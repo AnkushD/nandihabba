@@ -24,12 +24,12 @@
 
                             <div class="n-slide-content">
                                 <div class="n-slide-title">
-                                    <span class="n-slug">Cycle RIDE</span>
-                                    <p class="n-title">HERITAGE</p>
-                                    <p style="height: 32px;"></p>
-                                    <!-- a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">
+                                    <span class="n-slug">BULLS ON BICYCLE</span>
+                                    <p class="n-title">BICYCLE RACE</p>
+                                    <!-- p style="height: 32px;"></p -->
+                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">
                                         PARTICIPATE
-                                    </a -->
+                                    </a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -58,7 +58,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        3-4 FEB <br /> 2018
+                                        25th FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -73,7 +73,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">RUN UPHILL</span>
                                     <p class="n-title">MARATHON</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -118,7 +118,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        3-4 FEB <br /> 2018
+                                        25th FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -133,7 +133,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -149,7 +149,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">HERITAGE+NATURE</span>
                                     <p class="n-title">WALKS</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -178,7 +178,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        3-4 FEB <br /> 2018
+                                        25th FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -193,7 +193,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -209,7 +209,7 @@
                                 <div class="n-slide-title">
                                     <span class="n-slug">PLAY TIME</span>
                                     <p class="n-title">FUN & GAMES</p>
-                                    <a href="#/" class="btn n-rt-angled-btn js-ticket-tooltip">PARTICIPATE</a>
+                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                                 </div>
                                 <div class="n-slide-info">
                                     <span>NANDI HABBA</span>
@@ -238,7 +238,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        3-4 FEB <br /> 2018
+                                        25th FEB <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -253,7 +253,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -270,7 +270,7 @@
                         <p class="n-section-text margin-bottom-30" style="max-width: 800px;">
                             Countless early morning rides to the top of Nandi Hills, and you’ve still been missing out on its best features! Nandi Hills is home to one of the oldest temples in Karnataka and one of the only cloud forests in South India. Hundreds of birds, insects and plants common only in the Himalayas and dense forests can be spotted here. Nandi Habba turns the spotlight on the lesser known, yet fascinating, aspects of Nandi Hills. Come on down for a truly native experience and an opportunity to enjoy local foods, drinks, arts, culture, games and sports.
                         </p>
-                        <button class="btn n-brand-btn">READ MORE</button>
+                        <a class="btn n-brand-btn" href="/nandi-restoration/">READ MORE</a>
                     </div>
                     <div class="col-lg-4 col-md-5 col-sm-6">
                         <div id="js-home-trivia-carousel" class="n-home-trivia-carousel">
@@ -304,16 +304,15 @@
                         <p class="n-section-text margin-bottom-30">
                             This first of its kind event in Bengaluru makes a conscious effort to keep its carbon footprint to a minimum – Nandi Habba is a 100% plastic and litter-free celebration of Bengaluru’s favourite getaway.
                         </p>
-                        <a class="btn n-border-btn">EVENTS INFO</a>
+                        <a class="btn n-border-btn" href="/events/">EVENTS INFO</a>
                         &nbsp;
-                        <a class="btn n-border-btn">VIEW ITINERARY</a>
+                        <a class="btn n-border-btn" href="/itinerary/">VIEW ITINERARY</a>
                     </div>
                 </div>
             </section>
 
             <section class="n-section n-pg-side-padding n-events-section" id="js-event-section">
                 <div class="row">
-                    <!-- 
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
                             <h3 class="n-event-name">CYCLOTHON</h3>
@@ -321,10 +320,9 @@
                             <p class="n-event-info">
                                 Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
-                    -->
 
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
@@ -333,7 +331,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
 
@@ -344,7 +342,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
@@ -352,9 +350,19 @@
                             <h3 class="n-event-name">YOGA</h3>
                             <div class="n-event-img e-6"> </div>
                             <p class="n-event-info">
-                                Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
+                                Nandi Hills is known for great religious temples. Among the many temples, another temple to add to your list is the Yoga Nandeeshwara temple.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="n-event-item">
+                            <h3 class="n-event-name">FUN & GAMES</h3>
+                            <div class="n-event-img e-4"> </div>
+                            <p class="n-event-info">
+                                Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
+                            </p>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
                 </div>
@@ -371,16 +379,6 @@
                 <hr />
 
                 <div class="row">
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">FUN & GAMES</h3>
-                            <div class="n-event-img e-4"> </div>
-                            <p class="n-event-info">
-                                Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
-                            </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
-                        </div>
-                    </div>
                     <!--
                     <div class="col-lg-4 col-md-4">
                         <div class="n-event-item">
@@ -389,7 +387,7 @@
                             <p class="n-event-info">
                                 Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
 
@@ -400,7 +398,7 @@
                             <p class="n-event-info">
                                 Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
                     -->
@@ -417,7 +415,7 @@
                             <p class="n-event-info">
                                 Raghu Dixit, Lagori, Indian Music Experience and more. At Nandi Hills. You must be there for the experience.
                             </p>
-                            <button class="btn n-brand-btn js-ticket-tooltip">PARTICIPATE</button>
+                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                         </div>
                     </div>
                 </div>
@@ -435,7 +433,7 @@
                         <p class="n-section-text margin-bottom-30">
                             Nandi Habba 2018 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage.  This project is spearheaded by United Way of Bengaluru. It aims to inspire Bengalureans to be a part of an eco-tourism initiative, create world-class information centres, and establish a sustainable, zero carbon-footprint platform for tourists to explore Nandi Hills.
                         </p>
-                        <a class="btn n-brand-btn">READ MORE</a>
+                        <a class="btn n-brand-btn" href="/nandi-restoration/">READ MORE</a>
                         &nbsp;
                         <a class="btn n-brand-btn">CONTRIBUTE</a>
                     </div>

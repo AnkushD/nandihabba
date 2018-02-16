@@ -39,7 +39,7 @@ $(document).ready(function(){
         showCount: false,
         shareIn: "popup",
         url: window.location.href,
-        text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2017!",
+        text: "Enjoy local foods, drinks, arts, culture, games and sports at Nandi Habba 2018!",
         shares: [
             {
                 share: "twitter",
@@ -117,6 +117,8 @@ $(document).ready(function(){
         $('body').velocity("scroll", { duration: 600, easing: 'easeOutQuad' });
     });
 
+    /*
+
     $('.js-ticket-tooltip').tooltip({
         container: 'body',
         html: "true", 
@@ -145,6 +147,8 @@ $(document).ready(function(){
             $(this).tooltip('hide')
         });
     });
+     *
+    */
 
 
     $('#js-event-scroll a').click(function() {

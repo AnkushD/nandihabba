@@ -370,11 +370,11 @@
                     </a>
                 </li>
                 <li class="n-date">
-                     <span>3 - 4 Feb </span>
+                     <span>25th Feb </span>
                      <span>2018</span>
                 </li>
                 <li class="n-action">
-                    <a class="btn n-angled-btn js-ticket-tooltip" href="#/">COUNT ME IN!</a>
+                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
                 </li>
             </ul>
         </div>
