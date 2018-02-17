@@ -49,7 +49,7 @@ get_header(); ?>
                                 <p>
                                     Distance - 100km <br/>
                                     Open to – Pro cyclists Pan-India <br/>
-                                    When – 28th October 2017, 5.00am <br/> 
+                                    When – 25th Feb 2018, 10.00am <br/> 
                                     Reporting Point - Valley of the Wind, Nandi Hills
                                 <p>
                             </div>
@@ -63,9 +63,9 @@ get_header(); ?>
                                 <p>
 
                                 <p>
-                                    Distance - 25km <br/>
+                                    Distance - 75km <br/>
                                     Open to – Bengalureans <br/>
-                                    When – 28th October 2017, 7.00am <br/> 
+                                    When – 25th Feb 2018, 10.30am <br/> 
                                     Reporting Point - Valley of the Wind, Nandi Hills
                                 <p>
                             </div>
@@ -142,11 +142,11 @@ get_header(); ?>
                         <p class="n-block-title">Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 7.00am-9.30am (3 batches), 3.30pm-6.00pm (3 batches)</span>
+                                <span>February 25th - 8.00am-10.30am (3 batches), 3.30pm-6.00pm (3 batches)</span>
                             </li>
-                            <li>
+                            <!-- li>
                                <span>February 4th - 7.00am-9.30am (3 batches)</span>
-                            </li>
+                            </li -->
                         </ul>
                     </div>
 
@@ -236,11 +236,11 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 7.00am-9.30am</span>
+                                <span>February 25th - 8.00am-10.30am</span>
                             </li>
-                            <li>
+                            <!-- li>
                                <span>February 4th - 7.00am-9.30am</span>
-                            </li>
+                            </li -->
                         </ul>
                     </div>
 
@@ -317,7 +317,7 @@ get_header(); ?>
                     </div>
                 </section>
 
-                <section id="wildsketch" class="n-inside-pg-section">
+                <!-- section id="wildsketch" class="n-inside-pg-section">
                     <h3>WILDLIFE SKETCH WORKSHOP</h3>
                     <p class="n-event-info">
                         Celebrate the natural world through the tradition of observational drawing.  Venture into the countryside and places of natural interest recording the changing seasons through sketches.
@@ -333,7 +333,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 10.00am-12.30am (1 batch of 35 people)</span>
+                                <span>February 25th - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                             <li>
                                <span>February 4th - 10.00am-12.30am (1 batch of 35 people)</span>
@@ -391,9 +391,9 @@ get_header(); ?>
                     <div class="text-right margin-bottom-30">
                         <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
-                </section>
+                </section -->
 
-                <section id="templesketch" class="n-inside-pg-section">
+                <!-- section id="templesketch" class="n-inside-pg-section">
                     <h3>TEMPLE HERITAGE SKETCH WORKSHOP</h3>
                     <p class="n-event-info">
                         This is a great way of exploring history and heritage through drawing. We will be sketching the amazing Nandi Temple below nandi hills. It is a 1300 year old beautiful heritage structure built by the cholas.
@@ -411,7 +411,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 10.00am-12.30am (1 batch of 35 people)</span>
+                                <span>February 25th - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                         </ul>
                     </div>
@@ -481,9 +481,8 @@ get_header(); ?>
                     <div class="text-right margin-bottom-30">
                         <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
-                </section>
+                </section -->
 
-                <!--
                 <section id="arena" class="n-inside-pg-section">
                     <h3>Children’s Arena</h3>
                     <p class="n-event-info">
@@ -501,11 +500,11 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 10.00am-5.00pm</span>
+                                <span>February 25th - 10.00am onwards</span>
                             </li>
-                            <li>
+                            <!-- li>
                                <span>February 4th - 10.00am-5.00pm</span>
-                            </li>
+                            </li -->
                         </ul>
                     </div>
 
@@ -536,7 +535,6 @@ get_header(); ?>
                         <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                     </div>
                 </section>
-                -->
 
                 <!--
                 <section id="quiz" class="n-inside-pg-section">
@@ -677,11 +675,11 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 3rd - 4.00pm-5.30pm</span>
+                                <span>February 25th - 8.00pm-9.30pm</span>
                             </li>
-                            <li>
+                            <!-- li>
                                <span>February 4th - 7.00am-8.30am</span>
-                            </li>
+                            </li -->
                         </ul>
                     </div>
 
