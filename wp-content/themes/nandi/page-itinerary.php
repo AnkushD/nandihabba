@@ -33,7 +33,7 @@ get_header(); ?>
                                 8:00 PM - 9:30 PM
                             </div>
                             <div class="n-name">
-                                <a href="/events/#yoga"> Yoga at Nandi </a>
+                                <a href="/events/#yoga">Nandi Yoga at Nandi Hills</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -47,7 +47,7 @@ get_header(); ?>
                                 8:00 AM - 10:30 AM
                             </div>
                             <div class="n-name">
-                                <a href="/events/#heritagewalk">Heritage/Nature Walks</a>
+                                <a href="/events/#heritagewalk">Nandi Heritage Walk /Nature Walks at Nandi Hills</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -61,7 +61,7 @@ get_header(); ?>
                                 6.30 AM Onwards 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#marathon">Half Marathon (21Km)</a>
+                                <a href="/events/#marathon">Nandi Half Marathon at Nandi Hills</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -75,7 +75,7 @@ get_header(); ?>
                                 6.45 AM Onwards 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#marathon">10K Marathon</a>
+                                <a href="/events/#marathon">Nandi 10K Run at Nandi Hills</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -89,7 +89,7 @@ get_header(); ?>
                                 7.00 AM Onwards 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#marathon">Maja Community Run</a>
+                                <a href="/events/#marathon">5K Nandi Fun Run /5K Nandi Community Run</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -103,7 +103,7 @@ get_header(); ?>
                                 10:00 AM 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#cyclothon">Open Elite Cycle Race</a>
+                                <a href="/events/#cyclothon">Nandi Century Challenge - The Race for the Bulls on Bicycle</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -117,7 +117,7 @@ get_header(); ?>
                                 10:30 AM 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#cyclothon">Amateur Men’s Cycle Race</a>
+                                <a href="/events/#cyclothon">Nandi Bicycle Challenge (for Amateuer men cyclists)</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -131,7 +131,7 @@ get_header(); ?>
                                 10:30 AM 
                             </div>
                             <div class="n-name">
-                                <a href="/events/#cyclothon">Amateur Women’s Cycle Race</a>
+                                <a href="/events/#cyclothon">Nandi Bicycle Challenge (for Amateuer women cyclists)</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -155,6 +155,10 @@ get_header(); ?>
                             </div>
                         </div>
                     </div>
+                </section>
+
+                <section class="n-itinerary-section">
+                    <p style="font-weight: bold; margin-bottom: 100px;"> Who doesn’t love prizes? <a href="/prizes" target="_blank">Grab</a> as much as you can! </p>
                 </section>
 
                 <section class="n-itinerary-section">
