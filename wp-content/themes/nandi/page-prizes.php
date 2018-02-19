@@ -63,7 +63,7 @@ get_header(); ?>
                     </div>
 
                     <br />
-                    <p class="n-block-title margin-bottom-10">Marathon(10K) - Open</p> 
+                    <p class="n-block-title margin-bottom-10">Nandi 10KM Run - Open</p> 
                     <div class="row">
                         <div class="col-md-6">
                             <div class="n-small-text n-block">
@@ -187,7 +187,7 @@ get_header(); ?>
                 <section class="n-inside-pg-section">
                     <div class="n-small-text n-block">
                         <p style="color: #666; font-size: 13px;">
-                           (*) All amount are in prizes. Cheque will be issued for the winners. Appropriate tax applicable as per the taxation rules.
+                           (*) All amounts in rupees. Cheque will be issued for the winners. Appropriate tax applicable as per the taxation rules.
                         </p>
                     </div>
                 </section>

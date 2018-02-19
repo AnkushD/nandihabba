@@ -18,9 +18,9 @@ get_header(); ?>
                             <li><a href="#cyclothon" class="n-active">CYCLOTHON</a></li>
                             <li><a href="#naturewalk">NATURE WALK</a></li>
                             <li><a href="#heritagewalk"> HERITAGE WALK</a></li>
-                            <li><a href="#wildsketch">WILDLIFE SKETCH</a></li -->
+                            <!-- li><a href="#wildsketch">WILDLIFE SKETCH</a></li>
                             <li><a href="#templesketch">TEMPLE HERITAGE SKETCH </a></li -->
-                            <!-- li><a href="#arena"> CHILDREN’S ARENA</a></li -->
+                            <li><a href="#arena"> CHILDREN’S ARENA</a></li>
                             <!-- li><a href="#quiz"> QUIZ</a></li -->
                             <li><a href="#marathon"> MARATHON</a></li>
                             <li><a href="#yoga"> YOGA</a></li>
@@ -39,7 +39,7 @@ get_header(); ?>
 
                     <div class="n-two-col">
                         <div class="n-small-text n-col-content">
-                            <p class="n-block-title">Tour de Bengaluru</p>
+                            <p class="n-block-title">Nandi Century Challenge</p>
 
                             <div class="n-col-inner">
                                 <p>
