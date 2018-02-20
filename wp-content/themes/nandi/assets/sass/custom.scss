@@ -1395,6 +1395,15 @@ hr.n-thik {
 }
 
 @media (max-width: $screen-md-max) {
+    .n-site-header .n-left-header .n-action {
+        display: none;
+    }
+    .n-home-masthead-carousel .n-slide-content {
+        min-width: 160px;
+    }
+}
+
+@media (max-width: $screen-md-min) {
     .n-site-header .navigation-top {
         display: none;
         position: absolute;
