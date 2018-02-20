@@ -481,6 +481,7 @@ a {
 
 @media (max-width: $screen-md-max) {
     .navigation-top {
+        display: none;
         position: absolute;
         top: 30px;
         left: 0;
@@ -1040,7 +1041,6 @@ a {
             }
         }
 
-
         @media (max-width: $screen-md-max) {
             .n-angled-border {
                 &:before,
@@ -1262,16 +1262,35 @@ a {
         display: flex;
         justify-content: space-between;
         align-items: end;
+
+        @media (max-width: $screen-md-min) {
+            align-items: start;
+            flex-direction: column;
+
+            img {
+                margin-bottom: 5px;
+            }
+
+            .n-social-ic {
+                margin-top: 20px;
+            }
+        }
     }
 
     .n-sponsor {
         margin-bottom: 20px;
 
         p {
-            margin: 0;
+            margin: 0 0 10px;
         }
         img {
             max-width: 200px;
+            vertical-align: bottom;
+
+            &.n-valley-logo{
+                height: 95px;
+                margin-right: 5px;
+            }
         }
     }
 

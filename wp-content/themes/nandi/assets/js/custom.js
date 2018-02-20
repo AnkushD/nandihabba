@@ -1,6 +1,61 @@
 $ = jQuery;
 
+
+function checkForSourceUrl() {
+
+    var url_string = window.location.href;
+    var url = new URL(url_string);
+    var sourceParam= url.searchParams.get("source");
+    var finalUrl = "https://www.townscript.com/e/nandi-habba-042203";
+    var navUrl = false;
+
+    switch (sourceParam) {
+        case 'facebook-social': 
+            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-social";
+            navUrl = sourceParam;
+            break;
+
+        case 'facebook-paid': 
+            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-paid";
+            navUrl = sourceParam;
+            break;
+
+        case 'instagram': 
+            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=instagram";
+            navUrl = sourceParam;
+            break;
+
+        case 'twitter': 
+            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=twitter";
+            navUrl = sourceParam;
+            break;
+
+        case 'facebook-dv': 
+            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-dv";
+            navUrl = sourceParam;
+            break;
+    }
+
+    $('.js-ticket-tooltip').attr('href', finalUrl);
+
+    if(navUrl) {
+        var param = '?source=' + navUrl;
+
+        $('#site-navigation ul li a').each(function() {
+            var tempUrl = $(this).attr('href') + param;
+            $(this).attr('href', tempUrl);
+        });
+
+        var homeUrl =  $('.n-brand-icon a').attr('href') + param;
+
+        $('.n-brand-icon a').attr('href', homeUrl);
+    }
+}
+
+
 $(document).ready(function(){
+
+    checkForSourceUrl();
 
     var goToTopTimer = false;
 
@@ -147,7 +202,7 @@ $(document).ready(function(){
             $(this).tooltip('hide')
         });
     });
-     *
+
     */
 
 

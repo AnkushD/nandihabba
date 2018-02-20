@@ -39,7 +39,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -53,7 +53,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -67,7 +67,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -81,7 +81,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -95,7 +95,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -109,7 +109,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -123,7 +123,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -137,7 +137,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                         <div class="n-list-item clearfix">
@@ -151,7 +151,7 @@ get_header(); ?>
                             <div class="clearfix"></div>
 
                             <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip-hover" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
                             </div>
                         </div>
                     </div>
