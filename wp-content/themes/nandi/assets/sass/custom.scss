@@ -1418,7 +1418,7 @@ hr.n-thik {
             margin-bottom: 0 !important;
             padding-right: 0 !important;
             padding-top: 0 !important;
-            padding-bottom: 7px !important;
+            padding-bottom: 10px !important;
             margin-left: 0 !important;
 
             &:after {
@@ -1494,6 +1494,7 @@ hr.n-thik {
         display: inline-block;
         float: right;
         padding: 18px 15px;
+        cursor: pointer;
     }
     .n-home-masthead-carousel {
         .n-carousel-item {

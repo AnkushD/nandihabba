@@ -402,7 +402,7 @@
         </div>
 
         <div class="n-mobile-hamburger" id="js-mobile-hamburger">
-            <span class="fa fa-share"></span>
+            <span class="fa fa-lg fa-bars"></span>
         </div>
 
         <div class="dropdown n-share-dropdown n-header-share-dropdown">

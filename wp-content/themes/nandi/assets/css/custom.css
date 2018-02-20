@@ -13530,7 +13530,7 @@ hr.n-thik {
     margin-bottom: 0 !important;
     padding-right: 0 !important;
     padding-top: 0 !important;
-    padding-bottom: 7px !important;
+    padding-bottom: 10px !important;
     margin-left: 0 !important;
   }
   /* line 1424, ../sass/custom.scss */
@@ -13608,39 +13608,40 @@ hr.n-thik {
     display: inline-block;
     float: right;
     padding: 18px 15px;
+    cursor: pointer;
   }
 
-  /* line 1499, ../sass/custom.scss */
+  /* line 1500, ../sass/custom.scss */
   .n-home-masthead-carousel .n-carousel-item {
     height: 255px !important;
   }
-  /* line 1503, ../sass/custom.scss */
+  /* line 1504, ../sass/custom.scss */
   .n-home-masthead-carousel .n-title-item {
     margin-right: 0 !important;
     width: 100% !important;
   }
-  /* line 1507, ../sass/custom.scss */
+  /* line 1508, ../sass/custom.scss */
   .n-home-masthead-carousel .n-title-item .n-slide-content {
     padding: 30px 15px 0 !important;
     width: 100%;
   }
-  /* line 1512, ../sass/custom.scss */
+  /* line 1513, ../sass/custom.scss */
   .n-home-masthead-carousel .n-title-item .n-slide-content .n-slide-info {
     margin-left: 0;
   }
-  /* line 1517, ../sass/custom.scss */
+  /* line 1518, ../sass/custom.scss */
   .n-home-masthead-carousel .n-slide-title {
     margin-bottom: 0;
   }
-  /* line 1520, ../sass/custom.scss */
+  /* line 1521, ../sass/custom.scss */
   .n-home-masthead-carousel .n-slide-title .n-slug {
     font-size: 22px;
   }
-  /* line 1524, ../sass/custom.scss */
+  /* line 1525, ../sass/custom.scss */
   .n-home-masthead-carousel .n-slide-title .n-title {
     font-size: 38px;
   }
-  /* line 1529, ../sass/custom.scss */
+  /* line 1530, ../sass/custom.scss */
   .n-home-masthead-carousel .n-overlay-item .n-slide-tilt-bg {
     border: 0 !important;
     width: 100% !important;
@@ -13650,7 +13651,7 @@ hr.n-thik {
     -o-transform: skewX(0deg) !important;
     transform: skewX(0deg) !important;
   }
-  /* line 1535, ../sass/custom.scss */
+  /* line 1536, ../sass/custom.scss */
   .n-home-masthead-carousel .n-place-item,
   .n-home-masthead-carousel .n-date-item,
   .n-home-masthead-carousel .n-btn-item,
@@ -13658,20 +13659,20 @@ hr.n-thik {
     display: none;
   }
 
-  /* line 1544, ../sass/custom.scss */
+  /* line 1545, ../sass/custom.scss */
   .n-flat-bar-masthead .n-flat-bar-inner {
     padding: 20px 15px;
   }
-  /* line 1548, ../sass/custom.scss */
+  /* line 1549, ../sass/custom.scss */
   .n-flat-bar-masthead .n-flat-bar-rt {
     display: none;
   }
 
-  /* line 1553, ../sass/custom.scss */
+  /* line 1554, ../sass/custom.scss */
   .n-inside-pg-section .n-two-col {
     flex-direction: column;
   }
-  /* line 1556, ../sass/custom.scss */
+  /* line 1557, ../sass/custom.scss */
   .n-inside-pg-section .n-two-col .n-col-content {
     width: 100%;
   }
