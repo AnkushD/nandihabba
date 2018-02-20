@@ -13394,18 +13394,13 @@ a:link, a:visited, a:hover, a:active {
   max-width: 200px;
   vertical-align: bottom;
 }
-/* line 1290, ../sass/custom.scss */
-.n-site-footer .n-sponsor img.n-valley-logo {
-  height: 95px;
-  margin-right: 5px;
-}
-/* line 1297, ../sass/custom.scss */
+/* line 1292, ../sass/custom.scss */
 .n-site-footer .n-copy-rights {
   color: #fff;
   font-size: 15px;
   font-family: Roboto;
 }
-/* line 1304, ../sass/custom.scss */
+/* line 1299, ../sass/custom.scss */
 .n-site-footer .n-social-ic a {
   display: block;
   background: #00cf4c;
@@ -13416,12 +13411,12 @@ a:link, a:visited, a:hover, a:active {
   border-radius: 100% !important;
   color: #333;
 }
-/* line 1314, ../sass/custom.scss */
+/* line 1309, ../sass/custom.scss */
 .n-site-footer .n-social-ic i {
   font-size: 24px;
 }
 
-/* line 1320, ../sass/custom.scss */
+/* line 1315, ../sass/custom.scss */
 .n-goto-top {
   z-index: 2;
   position: fixed;
@@ -13450,17 +13445,17 @@ a:link, a:visited, a:hover, a:active {
   -o-transition: transform 0.2s;
   transition: transform 0.2s;
 }
-/* line 1348, ../sass/custom.scss */
+/* line 1343, ../sass/custom.scss */
 .n-goto-top .fa-caret-up {
   font-size: 45px !important;
   color: #00cf4c;
 }
-/* line 1353, ../sass/custom.scss */
+/* line 1348, ../sass/custom.scss */
 .n-goto-top .n-text {
   margin: -5px -2px;
   text-align: center;
 }
-/* line 1358, ../sass/custom.scss */
+/* line 1353, ../sass/custom.scss */
 .n-goto-top.e-show {
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
@@ -13469,23 +13464,23 @@ a:link, a:visited, a:hover, a:active {
   transform: scale(1);
 }
 
-/* line 1367, ../sass/custom.scss */
+/* line 1362, ../sass/custom.scss */
 hr.n-thik {
   border-top: 3px solid #e6e6e6;
   margin-bottom: 10px;
 }
 
-/* line 1372, ../sass/custom.scss */
+/* line 1367, ../sass/custom.scss */
 .n-inside-pg-content {
   max-width: 800px;
   margin: auto;
 }
 
-/* line 1378, ../sass/custom.scss */
+/* line 1373, ../sass/custom.scss */
 .n-inside-pg-section {
   font-family: "Roboto";
 }
-/* line 1381, ../sass/custom.scss */
+/* line 1376, ../sass/custom.scss */
 .n-inside-pg-section h3 {
   border-bottom: 2px solid #00cf4c;
   padding: 20px 0 10px;
@@ -13494,36 +13489,36 @@ hr.n-thik {
   font-size: 3.15789rem;
   color: #666;
 }
-/* line 1390, ../sass/custom.scss */
+/* line 1385, ../sass/custom.scss */
 .n-inside-pg-section img {
   width: 100%;
 }
-/* line 1394, ../sass/custom.scss */
+/* line 1389, ../sass/custom.scss */
 .n-inside-pg-section .n-event-info {
   line-height: 1.2;
   margin: 20px 0 35px;
   font-size: 18px;
 }
-/* line 1400, ../sass/custom.scss */
+/* line 1395, ../sass/custom.scss */
 .n-inside-pg-section .n-music-info {
   margin-bottom: 25px !important;
 }
-/* line 1404, ../sass/custom.scss */
+/* line 1399, ../sass/custom.scss */
 .n-inside-pg-section .n-two-col {
   display: flex;
 }
-/* line 1407, ../sass/custom.scss */
+/* line 1402, ../sass/custom.scss */
 .n-inside-pg-section .n-two-col .n-col-content {
   width: 50%;
 }
-/* line 1410, ../sass/custom.scss */
+/* line 1405, ../sass/custom.scss */
 .n-inside-pg-section .n-two-col .n-block-title {
   border-top: 1px solid #e6e6e6;
   border-bottom: 3px solid #e6e6e6;
   padding-top: 15px;
   padding-bottom: 10px;
 }
-/* line 1416, ../sass/custom.scss */
+/* line 1411, ../sass/custom.scss */
 .n-inside-pg-section .n-two-col .n-col-inner {
   padding-top: 15px;
   padding-right: 65px;
@@ -13531,34 +13526,34 @@ hr.n-thik {
   margin-bottom: 30px;
   border-bottom: 1px solid #e6e6e6;
 }
-/* line 1425, ../sass/custom.scss */
+/* line 1420, ../sass/custom.scss */
 .n-inside-pg-section .n-small-text {
   font-size: 15.5px;
   letter-spacing: .3px;
   line-height: 1.3;
 }
-/* line 1431, ../sass/custom.scss */
+/* line 1426, ../sass/custom.scss */
 .n-inside-pg-section .n-block {
   margin-bottom: 25px;
 }
-/* line 1435, ../sass/custom.scss */
+/* line 1430, ../sass/custom.scss */
 .n-inside-pg-section .n-block-title {
   color: #00cf4c;
   margin-bottom: 2px;
 }
-/* line 1440, ../sass/custom.scss */
+/* line 1435, ../sass/custom.scss */
 .n-inside-pg-section ul {
   padding-left: 10px;
   margin-top: 5px;
 }
-/* line 1444, ../sass/custom.scss */
+/* line 1439, ../sass/custom.scss */
 .n-inside-pg-section ul li {
   margin-bottom: 7px;
   padding-left: 20px;
   line-height: 1.25;
   position: relative;
 }
-/* line 1450, ../sass/custom.scss */
+/* line 1445, ../sass/custom.scss */
 .n-inside-pg-section ul li:before {
   content: "\f111";
   display: inline-block;

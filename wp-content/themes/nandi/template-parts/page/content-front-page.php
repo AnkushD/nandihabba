@@ -58,7 +58,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        25th FEB <br /> 2018
+                                        4th March <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -118,7 +118,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        25th FEB <br /> 2018
+                                        4th March <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -178,7 +178,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        25th FEB <br /> 2018
+                                        4th March <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -238,7 +238,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        25th FEB <br /> 2018
+                                        4th March <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">

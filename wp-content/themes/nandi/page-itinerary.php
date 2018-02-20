@@ -26,7 +26,7 @@ get_header(); ?>
 
             <div class="n-pg-side-padding n-itinerary-pg-content">
                 <section class="n-itinerary-section n-itinerary-events-section" id="itinerary28">
-                    <h3>25 FEBRUARY, 2018</h3>
+                    <h3>4 MARCH, 2018</h3>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">
                             <div class="n-time">

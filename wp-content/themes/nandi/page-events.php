@@ -20,7 +20,7 @@ get_header(); ?>
                             <li><a href="#heritagewalk"> HERITAGE WALK</a></li>
                             <!-- li><a href="#wildsketch">WILDLIFE SKETCH</a></li>
                             <li><a href="#templesketch">TEMPLE HERITAGE SKETCH </a></li -->
-                            <li><a href="#arena">Farmers Market</a></li>
+                            <li><a href="#arena">FARMERS MARKET</a></li>
                             <!-- li><a href="#quiz"> QUIZ</a></li -->
                             <li><a href="#marathon"> MARATHON</a></li>
                             <li><a href="#yoga"> YOGA</a></li>
@@ -49,7 +49,7 @@ get_header(); ?>
                                 <p>
                                     Distance - 100km <br/>
                                     Open to – Pro cyclists Pan-India <br/>
-                                    When – 25th Feb 2018, 10.00am <br/> 
+                                    When – 4th March 2018, 10.00am <br/> 
                                     Reporting Point - Valley of the Wind, Nandi Hills
                                 <p>
                             </div>
@@ -65,7 +65,7 @@ get_header(); ?>
                                 <p>
                                     Distance - 75km <br/>
                                     Open to – Bengalureans <br/>
-                                    When – 25th Feb 2018, 10.30am <br/> 
+                                    When – 4th March 2018, 10.30am <br/> 
                                     Reporting Point - Valley of the Wind, Nandi Hills
                                 <p>
                             </div>
@@ -142,7 +142,7 @@ get_header(); ?>
                         <p class="n-block-title">Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 8.00am-10.30am (3 batches), 3.30pm-6.00pm (3 batches)</span>
+                                <span>March 4th - 8.00am-10.30am (3 batches), 3.30pm-6.00pm (3 batches)</span>
                             </li>
                             <!-- li>
                                <span>February 4th - 7.00am-9.30am (3 batches)</span>
@@ -236,7 +236,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 8.00am-10.30am</span>
+                                <span>March 4th - 8.00am-10.30am</span>
                             </li>
                             <!-- li>
                                <span>February 4th - 7.00am-9.30am</span>
@@ -333,7 +333,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 10.00am-12.30am (1 batch of 35 people)</span>
+                                <span>March 4th - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                             <li>
                                <span>February 4th - 10.00am-12.30am (1 batch of 35 people)</span>
@@ -411,7 +411,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 10.00am-12.30am (1 batch of 35 people)</span>
+                                <span>March 4th - 10.00am-12.30am (1 batch of 35 people)</span>
                             </li>
                         </ul>
                     </div>
@@ -500,7 +500,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 10.00am onwards</span>
+                                <span>March 4th - 10.00am onwards</span>
                             </li>
                             <!-- li>
                                <span>February 4th - 10.00am-5.00pm</span>
@@ -675,7 +675,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>February 25th - 8.00pm-9.30pm</span>
+                                <span>March 4th - 8.00pm-9.30pm</span>
                             </li>
                             <!-- li>
                                <span>February 4th - 7.00am-8.30am</span>
