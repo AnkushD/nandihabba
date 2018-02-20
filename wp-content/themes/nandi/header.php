@@ -401,6 +401,10 @@
             </ul>
         </div>
 
+        <div class="n-mobile-hamburger" id="js-mobile-hamburger">
+            <span class="fa fa-share"></span>
+        </div>
+
         <div class="dropdown n-share-dropdown n-header-share-dropdown">
             <a id="dLabel" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
                 Recommend Nandi Habba

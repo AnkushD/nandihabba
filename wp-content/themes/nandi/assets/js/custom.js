@@ -30,7 +30,7 @@ function checkForSourceUrl() {
             navUrl = sourceParam;
             break;
 
-        case 'facebook-dv': 
+        case 'acebook-dv': 
             finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-dv";
             navUrl = sourceParam;
             break;
@@ -170,6 +170,14 @@ $(document).ready(function(){
 
     $('#e-goto-top').click(function() {
         $('body').velocity("scroll", { duration: 600, easing: 'easeOutQuad' });
+    });
+
+    $('#js-mobile-hamburger').toggle(function() {
+        $('.navigation-top').fadeIn();
+        $('.site-main').css('opacity', '.2');
+    }, function() {
+        $('.navigation-top').fadeOut();
+        $('.site-main').css('opacity', '1');
     });
 
     /*
