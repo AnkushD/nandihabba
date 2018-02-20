@@ -20,7 +20,7 @@ get_header(); ?>
                             <li><a href="#heritagewalk"> HERITAGE WALK</a></li>
                             <!-- li><a href="#wildsketch">WILDLIFE SKETCH</a></li>
                             <li><a href="#templesketch">TEMPLE HERITAGE SKETCH </a></li -->
-                            <li><a href="#arena"> CHILDREN’S ARENA</a></li>
+                            <li><a href="#arena">Farmers Market</a></li>
                             <!-- li><a href="#quiz"> QUIZ</a></li -->
                             <li><a href="#marathon"> MARATHON</a></li>
                             <li><a href="#yoga"> YOGA</a></li>
@@ -484,7 +484,7 @@ get_header(); ?>
                 </section -->
 
                 <section id="arena" class="n-inside-pg-section">
-                    <h3>Children’s Arena</h3>
+                    <h3>Farmers Market</h3>
                     <p class="n-event-info">
                         Indian traditional games were not just fun; they helped develop logical thinking, strategy, concentration, motor skills and more. If you miss the traditional games of your childhood and you wish to introduce your child to them too, come on over to the Nandi Habba. An exclusive children’s arena features various traditional games and handicrafts workshops (puppet making, pottery and more!). The arena is 100% environment-friendly and is guaranteed to bring immeasurable joy to the entire family!
                     </p>

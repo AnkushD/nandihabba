@@ -30,34 +30,6 @@ get_header(); ?>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                8:00 PM - 9:30 PM
-                            </div>
-                            <div class="n-name">
-                                <a href="/events/#yoga">Nandi Yoga at Nandi Hills</a>
-                            </div>
-
-                            <div class="clearfix"></div>
-
-                            <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                            </div>
-                        </div>
-                        <div class="n-list-item clearfix">
-                            <div class="n-time">
-                                8:00 AM - 10:30 AM
-                            </div>
-                            <div class="n-name">
-                                <a href="/events/#heritagewalk">Nandi Heritage Walk /Nature Walks at Nandi Hills</a>
-                            </div>
-
-                            <div class="clearfix"></div>
-
-                            <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                            </div>
-                        </div>
-                        <div class="n-list-item clearfix">
-                            <div class="n-time">
                                 6.30 AM Onwards 
                             </div>
                             <div class="n-name">
@@ -100,10 +72,52 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
+                                7:00 AM Onwards
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#yoga">Nandi Yoga at Nandi Hills</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                            </div>
+                        </div>
+                        <div class="n-list-item clearfix">
+                            <div class="n-time">
+                                8:00 AM - 10:30 AM
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#heritagewalk">Nandi Heritage Walk /Nature Walks at Nandi Hills</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                            </div>
+                        </div>
+                        <div class="n-list-item clearfix">
+                            <div class="n-time">
                                 10:00 AM 
                             </div>
                             <div class="n-name">
                                 <a href="/events/#cyclothon">Nandi Century Challenge - The Race for the Bulls on Bicycle</a>
+                            </div>
+
+                            <div class="clearfix"></div>
+
+                            <div class="n-action">
+                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
+                            </div>
+                        </div>
+                        <div class="n-list-item clearfix">
+                            <div class="n-time">
+                                10.00 AM Onwards
+                            </div>
+                            <div class="n-name">
+                                <a href="/events/#arena">Farmers Market</a>
                             </div>
 
                             <div class="clearfix"></div>
@@ -132,20 +146,6 @@ get_header(); ?>
                             </div>
                             <div class="n-name">
                                 <a href="/events/#cyclothon">Nandi Bicycle Challenge (for Amateuer women cyclists)</a>
-                            </div>
-
-                            <div class="clearfix"></div>
-
-                            <div class="n-action">
-                                <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                            </div>
-                        </div>
-                        <div class="n-list-item clearfix">
-                            <div class="n-time">
-                                10.00 AM Onwards
-                            </div>
-                            <div class="n-name">
-                                <a href="/events/#arena">Flea Market, Children’s Arena</a>
                             </div>
 
                             <div class="clearfix"></div>
