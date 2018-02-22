@@ -45,10 +45,14 @@ function checkForSourceUrl() {
             var tempUrl = $(this).attr('href') + param;
             $(this).attr('href', tempUrl);
         });
-
+ 
         var homeUrl =  $('.n-brand-icon a').attr('href') + param;
-
         $('.n-brand-icon a').attr('href', homeUrl);
+
+        $('.js-content-nav-btn').each(function() {
+            var tempUrl = $(this).attr('href') + param;
+            $(this).attr('href', tempUrl);
+        });
     }
 }
 

@@ -270,7 +270,7 @@
                         <p class="n-section-text margin-bottom-30" style="max-width: 800px;">
                             Countless early morning rides to the top of Nandi Hills, and you’ve still been missing out on its best features! Nandi Hills is home to one of the oldest temples in Karnataka and one of the only cloud forests in South India. Hundreds of birds, insects and plants common only in the Himalayas and dense forests can be spotted here. Nandi Habba turns the spotlight on the lesser known, yet fascinating, aspects of Nandi Hills. Come on down for a truly native experience and an opportunity to enjoy local foods, drinks, arts, culture, games and sports.
                         </p>
-                        <a class="btn n-brand-btn" href="/nandi-restoration/">READ MORE</a>
+                        <a class="btn n-brand-btn js-content-nav-btn" href="/nandi-restoration/">READ MORE</a>
                     </div>
                     <div class="col-lg-4 col-md-5 col-sm-6">
                         <div id="js-home-trivia-carousel" class="n-home-trivia-carousel">
@@ -304,9 +304,9 @@
                         <p class="n-section-text margin-bottom-30">
                             This first of its kind event in Bengaluru makes a conscious effort to keep its carbon footprint to a minimum – Nandi Habba is a 100% plastic and litter-free celebration of Bengaluru’s favourite getaway.
                         </p>
-                        <a class="btn n-border-btn" href="/events/">EVENTS INFO</a>
+                        <a class="btn n-border-btn js-content-nav-btn" href="/events/">EVENTS INFO</a>
                         &nbsp;
-                        <a class="btn n-border-btn" href="/itinerary/">VIEW ITINERARY</a>
+                        <a class="btn n-border-btn js-content-nav-btn" href="/itinerary/">VIEW ITINERARY</a>
                     </div>
                 </div>
             </section>
@@ -433,7 +433,7 @@
                         <p class="n-section-text margin-bottom-30">
                             Nandi Habba 2018 is the first phase of a 3-year initiative to enhance and restore the Nandi Hills heritage.  This project is spearheaded by United Way of Bengaluru. It aims to inspire Bengalureans to be a part of an eco-tourism initiative, create world-class information centres, and establish a sustainable, zero carbon-footprint platform for tourists to explore Nandi Hills.
                         </p>
-                        <a class="btn n-brand-btn" href="/nandi-restoration/">READ MORE</a>
+                        <a class="btn n-brand-btn js-content-nav-btn" href="/nandi-restoration/">READ MORE</a>
                         &nbsp;
                         <a class="btn n-brand-btn">CONTRIBUTE</a>
                     </div>
