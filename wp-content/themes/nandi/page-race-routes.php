@@ -45,7 +45,11 @@ get_header(); ?>
                         </div>
                         <div class="n-small-text n-block">
                             <p class="n-block-title">Race Route</p> 
-                            <img src="/wp-content/themes/nandi/assets/images/nandi100KL_cycle.png" alt="">
+                            <img src="/wp-content/themes/nandi/assets/images/loop.png" alt="">
+                        </div>
+                        <div class="n-small-text n-block">
+                            <p class="n-block-title">Note:</p> 
+                            <p>5 loops around nandi hills and culminate at the top of the hills; </p>
                         </div>
                     </div>
                 </section>
