@@ -675,7 +675,7 @@ get_header(); ?>
                         <p class="n-block-title">Event Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>March 4th - 8.00pm-9.30pm</span>
+                                <span>March 4th - 7.30am onwards</span>
                             </li>
                             <!-- li>
                                <span>February 4th - 7.00am-8.30am</span>

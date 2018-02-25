@@ -72,7 +72,7 @@ get_header(); ?>
                         </div>
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                7:00 AM Onwards
+                                7:30 AM Onwards
                             </div>
                             <div class="n-name">
                                 <a href="/events/#yoga">Nandi Yoga at Nandi Hills</a>
