@@ -380,9 +380,9 @@ a {
         position: absolute;
         top: 100%;
         list-style: none;
-        width: 230px;
-        left: -160px;
-        padding: 20px 0px 20px 85px;
+        width: 240px;
+        left: -190px;
+        padding: 20px 0px 20px 100px;
         z-index: 1;
 
         & > li {
@@ -405,6 +405,19 @@ a {
                 & > a {
                     color: $brand-green;
                 }
+            }
+
+            &:nth-child(2) {
+                margin-left: -10px;
+            }
+            &:nth-child(3) {
+                margin-left: -20px;
+            }
+            &:nth-child(4) {
+                margin-left: -30px;
+            }
+            &:nth-child(5) {
+                margin-left: -40px;
             }
         }
 
