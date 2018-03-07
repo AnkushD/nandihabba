@@ -11,7 +11,7 @@ get_header(); ?>
             <div class="n-flat-bar-masthead">
                 <div class="n-flat-bar-inner">
                     <div class="n-flat-bar-lt">
-                        <h1>PRIZE MONEY</h1>
+                        <h1>RESULT & PRIZE MONEY</h1>
                     </div>
                 </div>
             </div>
@@ -21,88 +21,193 @@ get_header(); ?>
 
                     <br />
                     <p class="n-block-title margin-bottom-15">Half Marathon(21Km) - Open</p> 
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="n-small-text n-block">
-                            <p class="n-block-title">Men</p> 
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <span>1st Prize: ₹ 20,000</span>
-                                    </li>
-                                    <li>
-                                        <span>2nd Prize: ₹ 15,000</span>
-                                    </li>
-                                    <li>
-                                        <span>3rd Prize: ₹ 10,000</span>
-                                    </li>
-                                    <li>
-                                        <span>4th / 5th Prize: ₹ 8,000</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="n-small-text n-block">
-                                <p class="n-block-title">Women</p> 
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <span>1st Prize: ₹ 20,000</span>
-                                    </li>
-                                    <li>
-                                        <span>2nd Prize: ₹ 15,000</span>
-                                    </li>
-                                    <li>
-                                        <span>3rd Prize: ₹ 10,000</span>
-                                    </li>
-                                    <li>
-                                        <span>4th / 5th Prize: ₹ 8,000</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+
+                    <p class="n-block-title">Men</p> 
+                    <div class="n-small-text n-block">
+                        <table class="table margin-bottom-30 n-table"> 
+                            <thead>
+                                <tr>
+                                    <th>Position</th> 
+                                    <th>BIB No.</th> 
+                                    <th>Timings</th> 
+                                    <th>Prize</th> 
+                                </tr> 
+                            </thead> 
+                            <tbody> 
+                                <tr>            
+                                    <th scope="row">1</th> 
+                                    <td>2145</td>       
+                                    <td>1:18:29</td> 
+                                    <td>₹ 20,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">2</th> 
+                                    <td>2018</td>       
+                                    <td>1:19:54</td> 
+                                    <td>₹ 15,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">3</th> 
+                                    <td>2005</td>       
+                                    <td>1:21:11</td> 
+                                    <td>₹ 10,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">4</th> 
+                                    <td>2006</td>       
+                                    <td>1:22:10</td> 
+                                    <td>₹ 8,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">5</th> 
+                                    <td>2147</td>       
+                                    <td>1:23:11</td> 
+                                    <td>₹ 8,000</td> 
+                                </tr>
+                            </tbody> 
+                        </table>
                     </div>
 
-                    <br />
-                    <p class="n-block-title margin-bottom-10">Nandi 10KM Run - Open</p> 
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="n-small-text n-block">
-                                <p class="n-block-title">Men</p> 
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <span>1st Prize: ₹ 5,000</span>
-                                    </li>
-                                    <li>
-                                        <span>2nd Prize: ₹ 3,000</span>
-                                    </li>
-                                    <li>
-                                        <span>3rd Prize: ₹ 2,000</span>
-                                    </li>
-                                    <li>
-                                        <span>4th / 5th Prize: ₹ 1,000</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="n-small-text n-block">
-                                <p class="n-block-title">Women</p> 
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <span>1st Prize: ₹ 5,000</span>
-                                    </li>
-                                    <li>
-                                        <span>2nd Prize: ₹ 3,000</span>
-                                    </li>
-                                    <li>
-                                        <span>3rd Prize: ₹ 2,000</span>
-                                    </li>
-                                    <li>
-                                        <span>4th / 5th Prize: ₹ 1,000</span>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                    <p class="n-block-title">Women</p> 
+                    <div class="n-small-text n-block">
+                        <table class="table margin-bottom-30 n-table"> 
+                            <thead>
+                                <tr>
+                                    <th>Position</th> 
+                                    <th>BIB No.</th> 
+                                    <th>Timings</th> 
+                                    <th>Prize</th> 
+                                </tr> 
+                            </thead> 
+                            <tbody> 
+                                <tr>            
+                                    <th scope="row">1</th> 
+                                    <td>2202</td>       
+                                    <td>1:34:52</td> 
+                                    <td>₹ 20,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">2</th> 
+                                    <td>2201</td>       
+                                    <td>1:39:59</td> 
+                                    <td>₹ 15,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">3</th> 
+                                    <td>2204</td>       
+                                    <td>1:47:19</td> 
+                                    <td>₹ 10,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">4</th> 
+                                    <td>2218</td>       
+                                    <td>1:48:41</td> 
+                                    <td>₹ 8,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">5</th> 
+                                    <td>2221</td>       
+                                    <td>1:50:31</td> 
+                                    <td>₹ 8,000</td> 
+                                </tr>
+                            </tbody> 
+                        </table>
+                    </div>
+
+                    <br/>
+                    <hr />
+
+                    <p class="n-block-title margin-bottom-25">Nandi 10KM Run - Open</p> 
+                    <p class="n-block-title">Men</p> 
+                    <div class="n-small-text n-block">
+                        <table class="table margin-bottom-30 n-table"> 
+                            <thead>
+                                <tr>
+                                    <th>Position</th> 
+                                    <th>BIB No.</th> 
+                                    <th>Timings</th> 
+                                    <th>Prize</th> 
+                                </tr> 
+                            </thead> 
+                            <tbody> 
+                                <tr>            
+                                    <th scope="row">1</th> 
+                                    <td>1104</td>       
+                                    <td>1:06:51</td> 
+                                    <td>₹ 5,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">2</th> 
+                                    <td>1115</td>       
+                                    <td>1:23:54</td> 
+                                    <td>₹ 3,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">3</th> 
+                                    <td>1089</td>       
+                                    <td>1:27:25</td> 
+                                    <td>₹ 2,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">4</th> 
+                                    <td>1101</td>       
+                                    <td>1:35:50</td> 
+                                    <td>₹ 1,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">5</th> 
+                                    <td>1096</td>       
+                                    <td>1:39:54</td> 
+                                    <td>₹ 1,000</td> 
+                                </tr>
+                            </tbody> 
+                        </table>
+                    </div>
+
+                    <p class="n-block-title">Women</p> 
+                    <div class="n-small-text n-block">
+                        <table class="table margin-bottom-30 n-table"> 
+                            <thead>
+                                <tr>
+                                    <th>Position</th> 
+                                    <th>BIB No.</th> 
+                                    <th>Timings</th> 
+                                    <th>Prize</th> 
+                                </tr> 
+                            </thead> 
+                            <tbody> 
+                                <tr>            
+                                    <th scope="row">1</th> 
+                                    <td>1163</td>       
+                                    <td>1:06:51</td> 
+                                    <td>₹ 5,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">2</th> 
+                                    <td>1156</td>       
+                                    <td>1:23:54</td> 
+                                    <td>₹ 3,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">3</th> 
+                                    <td>1191</td>       
+                                    <td>1:27:25</td> 
+                                    <td>₹ 2,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">4</th> 
+                                    <td>1158</td>       
+                                    <td>1:35:50</td> 
+                                    <td>₹ 1,000</td> 
+                                </tr>
+                                <tr>            
+                                    <th scope="row">5</th> 
+                                    <td>1190</td>       
+                                    <td>1:39:54</td> 
+                                    <td>₹ 1,000</td> 
+                                </tr>
+                            </tbody> 
+                        </table>
                     </div>
                 </section>
 
