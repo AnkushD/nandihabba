@@ -133,31 +133,31 @@ get_header(); ?>
                                 <tr>            
                                     <th scope="row">1</th> 
                                     <td>1104</td>       
-                                    <td>1:06:51</td> 
+                                    <td>0:52:46</td> 
                                     <td>₹ 5,000</td> 
                                 </tr>
                                 <tr>            
                                     <th scope="row">2</th> 
                                     <td>1115</td>       
-                                    <td>1:23:54</td> 
+                                    <td>0:53:09</td> 
                                     <td>₹ 3,000</td> 
                                 </tr>
                                 <tr>            
                                     <th scope="row">3</th> 
                                     <td>1089</td>       
-                                    <td>1:27:25</td> 
+                                    <td>0:53:25</td> 
                                     <td>₹ 2,000</td> 
                                 </tr>
                                 <tr>            
                                     <th scope="row">4</th> 
                                     <td>1101</td>       
-                                    <td>1:35:50</td> 
+                                    <td>0:54:47</td> 
                                     <td>₹ 1,000</td> 
                                 </tr>
                                 <tr>            
                                     <th scope="row">5</th> 
                                     <td>1096</td>       
-                                    <td>1:39:54</td> 
+                                    <td>0:55:32</td> 
                                     <td>₹ 1,000</td> 
                                 </tr>
                             </tbody> 
