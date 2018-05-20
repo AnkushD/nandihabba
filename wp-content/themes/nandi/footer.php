@@ -26,9 +26,9 @@
                 <div class="n-copy-rights">
                     <div class="n-sponsor">
                         <p>Sponsor:</p>
-                        <img src="/wp-content/themes/nandi/assets/images/valley-wind.png" alt="Valley Of The Wind Logo" />
+                        <!--img src="/wp-content/themes/nandi/assets/images/valley-wind.png" alt="Valley Of The Wind Logo" / -->
                         <img src="/wp-content/themes/nandi/assets/images/DV_Revised_Logo.jpg" alt="Discovery Village Logo" />
-                        <img src="/wp-content/themes/nandi/assets/images/wellnest.png" alt="WellNest Logo" />
+                        <!-- img src="/wp-content/themes/nandi/assets/images/wellnest.png" alt="WellNest Logo" / -->
                     </div>
                     © 2018. Nandi Habba. All Rights Reserved.
                 </div>

@@ -6,32 +6,32 @@ function checkForSourceUrl() {
     var url_string = window.location.href;
     var url = new URL(url_string);
     var sourceParam= url.searchParams.get("source");
-    var finalUrl = "https://www.townscript.com/e/nandi-habba-042203";
+    var finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302";
     var navUrl = false;
 
     switch (sourceParam) {
         case 'facebook-social': 
-            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-social";
+            finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302?source=facebook-social";
             navUrl = sourceParam;
             break;
 
         case 'facebook-paid': 
-            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-paid";
+            finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302?source=facebook-paid";
             navUrl = sourceParam;
             break;
 
         case 'instagram': 
-            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=instagram";
+            finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302?source=instagram";
             navUrl = sourceParam;
             break;
 
         case 'twitter': 
-            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=twitter";
+            finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302?source=twitter";
             navUrl = sourceParam;
             break;
 
         case 'acebook-dv': 
-            finalUrl = "https://www.townscript.com/e/nandi-habba-042203?source=facebook-dv";
+            finalUrl = "https://www.townscript.com/e/nandi-plog-run-023302?source=facebook-dv";
             navUrl = sourceParam;
             break;
     }
@@ -66,7 +66,7 @@ $(document).ready(function(){
     var item_length = $('#js-home-masthead-carousel > div').length - 1;
 
     var slider = $('#js-home-masthead-carousel').slick({
-        dots: true,
+        dots: false,
         autoplay: true,
         pauseOnFocus: false,
         autoplaySpeed: 4000,

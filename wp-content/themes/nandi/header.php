@@ -392,11 +392,11 @@
                     </a>
                 </li>
                 <li class="n-date">
-                     <span>4th March </span>
+                     <span>9th June </span>
                      <span>2018</span>
                 </li>
                 <li class="n-action">
-                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
+                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-plog-run-023302" target="_blank">COUNT ME IN!</a>
                 </li>
             </ul>
         </div>

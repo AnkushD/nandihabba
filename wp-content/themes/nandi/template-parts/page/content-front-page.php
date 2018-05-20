@@ -16,7 +16,7 @@
 <div class="wrap">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-            <div class="n-home-masthead-carousel" id="js-home-masthead-carousel">
+            <div class="n-home-masthead-carousel n-" id="js-home-masthead-carousel">
                 <div class="n-carousel-item i-1">
                     <div class="n-slide-overlay">
                         <div class="n-overlay-item n-title-item">
@@ -24,10 +24,9 @@
 
                             <div class="n-slide-content">
                                 <div class="n-slide-title">
-                                    <span class="n-slug">BULLS ON BICYCLE</span>
-                                    <p class="n-title">BICYCLE RACE</p>
-                                    <!-- p style="height: 32px;"></p -->
-                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">
+                                    <span class="n-slug">&nbsp;</span>
+                                    <p class="n-title" style="padding-left: 8px;">NANDI </br> PLUG RUN</p>
+                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" style="margin-left: 10px;" href="https://www.townscript.com/e/nandi-plog-run-023302" target="_blank">
                                         PARTICIPATE
                                     </a>
                                 </div>
@@ -58,7 +57,7 @@
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
                                     <div class="n-default">
-                                        4th March <br /> 2018
+                                        9th June <br /> 2018
                                     </div>
                                     <div class="n-show-on-hover n-reminder-item">
                                         <a href="">
@@ -73,187 +72,7 @@
                             <div class="n-slide-tilt-bg"></div>
                             <div class="n-slide-content">
                                 <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="n-carousel-item i-2">
-                    <div class="n-slide-overlay">
-                        <div class="n-overlay-item n-title-item">
-                            <div class="n-slide-tilt-bg"> </div>
-
-                            <div class="n-slide-content">
-                                <div class="n-slide-title">
-                                    <span class="n-slug">RUN UPHILL</span>
-                                    <p class="n-title">MARATHON</p>
-                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                                </div>
-                                <div class="n-slide-info">
-                                    <span>NANDI HABBA</span>
-                                    <p>DISCOVER, EXPERIENCE, CONTRIBUTE.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-place-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        VALLEY OF THE WIND </br> NANDI HILLS
-                                    </div>
-                                    <div class="n-show-on-hover n-direct-item">
-                                        <a href="">
-                                            <i class="fa fa-map-marker fa-2x"></i>
-                                            <span>DIRECT ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-date-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        4th March <br /> 2018
-                                    </div>
-                                    <div class="n-show-on-hover n-reminder-item">
-                                        <a href="">
-                                            <i class="fa fa-calendar fa-2x"></i>
-                                            <span>REMIND ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-btn-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="n-carousel-item i-3">
-                    <div class="n-slide-overlay">
-                        <div class="n-overlay-item n-title-item">
-                            <div class="n-slide-tilt-bg"> </div>
-
-                            <div class="n-slide-content">
-                                <div class="n-slide-title">
-                                    <span class="n-slug">HERITAGE+NATURE</span>
-                                    <p class="n-title">WALKS</p>
-                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                                </div>
-                                <div class="n-slide-info">
-                                    <span>NANDI HABBA</span>
-                                    <p>DISCOVER, EXPERIENCE, CONTRIBUTE.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-place-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        VALLEY OF THE WIND </br> NANDI HILLS
-                                    </div>
-                                    <div class="n-show-on-hover n-direct-item">
-                                        <a href="">
-                                            <i class="fa fa-map-marker fa-2x"></i>
-                                            <span>DIRECT ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-date-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        4th March <br /> 2018
-                                    </div>
-                                    <div class="n-show-on-hover n-reminder-item">
-                                        <a href="">
-                                            <i class="fa fa-calendar fa-2x"></i>
-                                            <span>REMIND ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-btn-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="n-carousel-item i-4">
-                    <div class="n-slide-overlay">
-                        <div class="n-overlay-item n-title-item">
-                            <div class="n-slide-tilt-bg"> </div>
-
-                            <div class="n-slide-content">
-                                <div class="n-slide-title">
-                                    <span class="n-slug">PLAY TIME</span>
-                                    <p class="n-title">FUN & GAMES</p>
-                                    <a class="btn n-rt-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                                </div>
-                                <div class="n-slide-info">
-                                    <span>NANDI HABBA</span>
-                                    <p>DISCOVER, EXPERIENCE, CONTRIBUTE.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-place-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        VALLEY OF THE WIND </br> NANDI HILLS
-                                    </div>
-                                    <div class="n-show-on-hover n-direct-item">
-                                        <a href="">
-                                            <i class="fa fa-map-marker fa-2x"></i>
-                                            <span>DIRECT ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-on-hover n-date-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <div class="n-default">
-                                        4th March <br /> 2018
-                                    </div>
-                                    <div class="n-show-on-hover n-reminder-item">
-                                        <a href="">
-                                            <i class="fa fa-calendar fa-2x"></i>
-                                            <span>REMIND ME</span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="n-overlay-item n-btn-item">
-                            <div class="n-slide-tilt-bg"></div>
-                            <div class="n-slide-content">
-                                <div class="n-slide-info">
-                                    <a class="btn n-angled-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">COUNT ME IN!</a>
+                                    <a class="btn n-angled-btn js-ticket-tooltip" href="" target="_blank">COUNT ME IN!</a>
                                 </div>
                             </div>
                         </div>
@@ -311,118 +130,7 @@
                 </div>
             </section>
 
-            <section class="n-section n-pg-side-padding n-events-section" id="js-event-section">
-                <div class="row">
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">CYCLOTHON</h3>
-                            <div class="n-event-img e-1"> </div>
-                            <p class="n-event-info">
-                                Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">HALF MARATHON</h3>
-                            <div class="n-event-img e-2"> </div>
-                            <p class="n-event-info">
-                                Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">WALKS</h3>
-                            <div class="n-event-img e-3"> </div>
-                            <p class="n-event-info">
-                                Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">YOGA</h3>
-                            <div class="n-event-img e-6"> </div>
-                            <p class="n-event-info">
-                                Nandi Hills is known for great religious temples. Among the many temples, another temple to add to your list is the Yoga Nandeeshwara temple.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">FUN & GAMES</h3>
-                            <div class="n-event-img e-4"> </div>
-                            <p class="n-event-info">
-                                Don’t just plan your first cycling experience at Nandi. Get on those seats and ride past the breathtaking scenery.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="n-show-more-btn" id="js-show-more-events">
-                    <div class="n-btn">
-                        <i class="fa fa-caret-down"></i>
-                    </div>
-                </div>
-
-                
-                <div class="clearfix margin-bottom-30"></div>
-                <hr />
-
-                <div class="row">
-                    <!--
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">QUIZ</h3>
-                            <div class="n-event-img e-5"> </div>
-                            <p class="n-event-info">
-                                Put your training to the test and run up the slopes of Nandi Hills. With the birds cheering you on, we assure you, it’s a trail like no other.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">YOGA</h3>
-                            <div class="n-event-img e-6"> </div>
-                            <p class="n-event-info">
-                                Slow down and watch the best kept secrets of Nandi come to life. Nature lovers and history buffs, meet your tribe at the Nandi Nature Walk and Nandi Heritage Walk.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-                    -->
-                </div>
-
-
-                <!--
-                <hr />
-                <div class="row">
-                    <div class="col-lg-4 col-md-4">
-                        <div class="n-event-item">
-                            <h3 class="n-event-name">MUSIC</h3>
-                            <div class="n-event-img e-7"> </div>
-                            <p class="n-event-info">
-                                Raghu Dixit, Lagori, Indian Music Experience and more. At Nandi Hills. You must be there for the experience.
-                            </p>
-                            <a class="btn n-brand-btn js-ticket-tooltip" href="https://www.townscript.com/e/nandi-habba-042203" target="_blank">PARTICIPATE</a>
-                        </div>
-                    </div>
-                </div>
-                -->
-            </section>
-
-            <section class="n-section n-pg-side-padding n-restoration-section">
+            <section class="n-section n-pg-side-padding n-restoration-section" style="margin-top: 0 !important;">
                 <div class="row">
                     <div class="col-lg-12">
                         <h1 class="n-section-title">
@@ -435,7 +143,7 @@
                         </p>
                         <a class="btn n-brand-btn js-content-nav-btn" href="/nandi-restoration/">READ MORE</a>
                         &nbsp;
-                        <a class="btn n-brand-btn">CONTRIBUTE</a>
+                        <!-- a class="btn n-brand-btn">CONTRIBUTE</a -->
                     </div>
                 </div>
             </section>

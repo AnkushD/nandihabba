@@ -380,10 +380,16 @@ a {
         position: absolute;
         top: 100%;
         list-style: none;
+        z-index: 1;
+
+      /*
         width: 240px;
         left: -190px;
-        padding: 20px 0px 20px 100px;
-        z-index: 1;
+        padding: 20px 0px 20px 100px; */
+
+        width: 200px;
+        right: 20px;
+        padding: 20px 0px 20px 60px;
 
         & > li {
             position: relative;
@@ -590,6 +596,7 @@ a {
         }
 
         &.n-on-hover {
+            /*
             &:hover {
                 .n-slide-tilt-bg {
                     background: rgba(0,0,0,.8);
@@ -601,6 +608,7 @@ a {
                     display: block !important;
                 }
             }
+            */
         }
     }
 
