@@ -35,7 +35,7 @@ get_header(); ?>
                         <p class="n-block-title">Schedule</p>
                         <ul class="list-unstyled">
                             <li>
-                                <span>June 9th 2018</span>
+                                <span>June 9th 2018 (7AM - 10AM)</span>
                             </li>
                         </ul>
                     </div>

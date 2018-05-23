@@ -22,7 +22,7 @@ get_header(); ?>
                     <div class="n-events-list">
                         <div class="n-list-item clearfix">
                             <div class="n-time">
-                                Time will update soon. 
+                                7AM - 10AM
                             </div>
                             <div class="n-name">
                                 <a href="/events/#plugrun">Nandi Plug Run at Nandi Hills</a>

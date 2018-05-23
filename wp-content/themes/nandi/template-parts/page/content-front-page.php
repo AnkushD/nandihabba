@@ -17,7 +17,7 @@
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
             <div class="n-home-masthead-carousel n-" id="js-home-masthead-carousel">
-                <div class="n-carousel-item i-1">
+                <div class="n-carousel-item i-2">
                     <div class="n-slide-overlay">
                         <div class="n-overlay-item n-title-item">
                             <div class="n-slide-tilt-bg"> </div>
